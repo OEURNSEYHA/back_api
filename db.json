@@ -1,5 +1,4 @@
 {
-  
   "products": [
     {
       "id": "1",
@@ -12,14 +11,14 @@
         "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
         "https://icon-library.com/images/placeholder-image-icon/placeholder-image-icon-5.jpg"
       ],
-      "price":2000,
+      "price": 2000,
       "details": {
-        "type":6,
+        "type": 6,
         "ram": 1,
         "memory": 64,
         "screen": 10,
-        "brand":1,
-        "condition":1
+        "brand": 1,
+        "condition": 1
       },
       "location": 1,
       "view": 1,
@@ -42,15 +41,15 @@
       "price": 1200,
       "details": {
         "type": 6,
-        "ram":2 ,
+        "ram": 2,
         "memory": 64,
         "screen": 32,
         "brand": 1,
-        "condition":1
+        "condition": 1
       },
-      "location":1,
+      "location": 1,
       "view": 1,
-      "categoryId":4,
+      "categoryId": 4,
       "pageId": 1,
       "createdAt": "05 July 2023",
       "updatedAt": ""
@@ -69,7 +68,7 @@
       "price": 2000,
       "details": {
         "type": 7,
-        "ram":3,
+        "ram": 3,
         "memory": 64,
         "screen": 20,
         "brand": 2,
@@ -77,7 +76,7 @@
       },
       "location": 1,
       "view": 1,
-      "categoryId":4,
+      "categoryId": 4,
       "pageId": 1,
       "createdAt": "05 July 2023",
       "updatedAt": ""
@@ -99,12 +98,12 @@
         "ram": 1,
         "memory": 64,
         "screen": 42,
-        "brand":2,
+        "brand": 2,
         "condition": 1
       },
       "location": 1,
       "view": 1,
-      "categoryId":4,
+      "categoryId": 4,
       "pageId": 1,
       "createdAt": "05 July 2023",
       "updatedAt": ""
@@ -126,12 +125,12 @@
         "ram": 2,
         "memory": 64,
         "screen": 54,
-        "brand":3,
+        "brand": 3,
         "condition": 1
       },
       "location": 1,
       "view": 1,
-      "categoryId":4,
+      "categoryId": 4,
       "pageId": 1,
       "createdAt": "05 July 2023",
       "updatedAt": ""
@@ -153,12 +152,12 @@
         "ram": 1,
         "memory": 64,
         "screen": 64,
-        "brand":3,
+        "brand": 3,
         "condition": 1
       },
       "location": 1,
       "view": 1,
-      "categoryId":4,
+      "categoryId": 4,
       "pageId": 1,
       "createdAt": "05 July 2023",
       "updatedAt": ""
@@ -177,7 +176,7 @@
       "price": 1000,
       "details": {
         "type": 7,
-        "ram":2,
+        "ram": 2,
         "memory": 64,
         "screen": 24,
         "brand": 1,
@@ -185,7 +184,7 @@
       },
       "location": 1,
       "view": 1,
-      "categoryId":4,
+      "categoryId": 4,
       "pageId": 1,
       "createdAt": "05 July 2023",
       "updatedAt": ""
@@ -210,9 +209,9 @@
         "brand": 4,
         "condition": 1
       },
-      "location":1,
+      "location": 1,
       "view": 1,
-      "categoryId":4,
+      "categoryId": 4,
       "pageId": 1,
       "createdAt": "05 July 2023",
       "updatedAt": ""
@@ -231,7 +230,7 @@
       "price": 1000,
       "details": {
         "type": 6,
-        "ram":2,
+        "ram": 2,
         "memory": 64,
         "screen": 24,
         "brand": 5,
@@ -239,7 +238,7 @@
       },
       "location": 1,
       "view": 1,
-      "categoryId":4,
+      "categoryId": 4,
       "pageId": 1,
       "createdAt": "05 July 2023",
       "updatedAt": ""
@@ -266,12 +265,877 @@
       },
       "location": 1,
       "view": 1,
-      "categoryId":4,
+      "categoryId": 4,
       "pageId": 1,
       "createdAt": "05 July 2023",
       "updatedAt": ""
     }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "cars & vichicales",
+      "slug": "cars-vichicles",
+      "image": "./public/menu-images/car.png"
+    },
+    {
+      "id": 2,
+      "name": "properties",
+      "slug": "properties",
+      "image": "./public/menu-images/property.png"
+    },
+    {
+      "id": 3,
+      "name": "mobiles",
+      "slug": "mobiles",
+      "image": "./public/menu-images/mobile.png"
+    },
+    {
+      "id": 4,
+      "name": "computers",
+      "slug": "computers",
+      "image": "./public/menu-images/laptop.png"
+    },
+    {
+      "id": 5,
+      "name": "fashions",
+      "slug": "fashions",
+      "image": "./public/menu-images/fashion.png"
+    },
+    {
+      "id": 6,
+      "name": "jobs",
+      "slug": "jobs",
+      "image": "./public/menu-images/job.png"
+    },
+    {
+      "id": 7,
+      "name": "services",
+      "slug": "services",
+      "image": "./public/menu-images/service.png"
+    },
+    {
+      "id": 8,
+      "name": "funitures",
+      "slug": "funitures",
+      "image": "./public/menu-images/furniture.png"
+    },
+    {
+      "id": 9,
+      "name": "pets",
+      "slug": "pets",
+      "image": "./public/menu-images/pet.png"
+    },
+    {
+      "id": 10,
+      "name": "education",
+      "slug": "education",
+      "image": "./public/menu-images/book.png"
+    },
+    {
+      "id": 11,
+      "name": "kid & toy",
+      "slug": "kid-toy",
+      "image": "./public/menu-images/kids&toy.png"
+    },
+    {
+      "id": 12,
+      "name": "foods",
+      "slug": "foods",
+      "image": "./public/menu-images/food.png"
+    }
+  ],
 
+  "sub-categories": [
+    {
+      "id": "1",
+      "categoryId": 1,
+      "name": "buses & microbuses",
+      "value": "buses-microbuses"
+    },
+    {
+      "id": "2",
+      "categoryId": 1,
+      "name": "heavy equipment",
+      "value": "heavy-equipment"
+    },
+    {
+      "id": "3",
+      "categoryId": 1,
+      "name": "motorcycles & scooters",
+      "value": "motorcycles-scooters"
+    },
+    {
+      "id": "4",
+      "categoryId": 1,
+      "name": "trucks & trailers",
+      "value": "trucks-trailers"
+    },
+    {
+      "id": "5",
+      "categoryId": 1,
+      "name": "vehicle varts & accessories",
+      "value": "vehicle-parts-accessories"
+    },
+    {
+      "id": "6",
+      "categoryId": 1,
+      "name": "watercraft & boats",
+      "value": "watercraft-boats"
+    },
+    {
+      "id": "7",
+      "categoryId": 2,
+      "name": "houses & apartments for rent",
+      "value": "houses-apartments-for-rent"
+    },
+    {
+      "id": "8",
+      "categoryId": 2,
+      "name": "houses & apartments for fale",
+      "value": "houses-apartments-for-rent"
+    },
+    {
+      "id": "9",
+      "categoryId": 2,
+      "name": "land & plots for rent",
+      "value": "land-plots-for-rent"
+    },
+    {
+      "id": "10",
+      "categoryId": 2,
+      "name": "Land & Plots For Rent",
+      "value": "land-plots-for-rent"
+    },
+    {
+      "id": "11",
+      "categoryId": 6,
+      "name": "account & finance",
+      "value": "account-finance"
+    },
+    {
+      "id": "12",
+      "categoryId": 6,
+      "name": "education & infomation",
+      "value": "education-infomation"
+    },
+    {
+      "id": "13",
+      "categoryId": 6,
+      "name": "engineering & architecture",
+      "value": "engineering-architecture"
+    },
+    {
+      "id": "14",
+      "categoryId": 6,
+      "name": "production",
+      "value": "production"
+    },
+    {
+      "id": "15",
+      "categoryId": 6,
+      "name": "hr & development",
+      "value": "hr-development"
+    },
+    {
+      "id": "16",
+      "categoryId": 6,
+      "name": "design & creative",
+      "value": "design & creative"
+    },
+    {
+      "id": "17",
+      "categoryId": 6,
+      "name": "technology",
+      "value": "technology"
+    },
+    {
+      "id": "18",
+      "categoryId": 6,
+      "name": "medicin",
+      "value": "medicin"
+    },
+    {
+      "id": "19",
+      "categoryId": 6,
+      "name": "art-culture",
+      "value": "art-culture"
+    },
+    {
+      "id": "20",
+      "categoryId": 6,
+      "name": "marketing & advertising",
+      "value": "marketing-advertising"
+    },
+    {
+      "id": "21",
+      "categoryId": 6,
+      "name": "legal",
+      "value": "legal"
+    },
+    {
+      "id": "22",
+      "categoryId": 6,
+      "name": "frelance & dilevers",
+      "value": "frelance-dilevers"
+    },
+    {
+      "id": "23",
+      "categoryId": 10,
+      "name": "book",
+      "value": "book"
+    },
+    {
+      "id": "24",
+      "categoryId": 10,
+      "name": "individual & learn",
+      "value": "individual-learn"
+    },
+    {
+      "id": "25",
+      "categoryId": 6,
+      "name": "accessories",
+      "value": "accessories"
+    }
+  ],
+
+  "locations": [
+    {
+      "id": 1,
+      "name": "phnom penh",
+      "value": "phnom-penh"
+    },
+    {
+      "id": 2,
+      "name": "siem reap",
+      "value": "siem-reap"
+    },
+    {
+      "id": 3,
+      "name": "battambang",
+      "value": "battambang"
+    },
+    {
+      "id": 4,
+      "name": "kampot",
+      "value": "kampot"
+    },
+    {
+      "id": 5,
+      "name": "kampong thom",
+      "value": "kampong-thom"
+    },
+    {
+      "id": 6,
+      "name": "kampong cham",
+      "value": "kampong-cham"
+    },
+    {
+      "id": 7,
+      "name": "mondulkiri",
+      "value": "modulkiri"
+    },
+    {
+      "id": 8,
+      "name": "koh kong",
+      "value": "koh-kong"
+    },
+    {
+      "id": 9,
+      "name": "pursat",
+      "value": "pursat"
+    },
+    {
+      "id": 10,
+      "name": "takeo",
+      "value": "takeo"
+    },
+    {
+      "id": 11,
+      "name": "banteay meanchey",
+      "value": "banteay-meanchey"
+    },
+    {
+      "id": 12,
+      "name": "kratie",
+      "value": "kratie"
+    },
+    {
+      "id": 13,
+      "name": "kep",
+      "value": "kep"
+    },
+    {
+      "id": 14,
+      "name": "stung treng",
+      "value": "stung-treng"
+    },
+    {
+      "id": 15,
+      "name": "kandal",
+      "value": "kandal"
+    },
+    {
+      "id": 16,
+      "name": "svay rieng",
+      "value": "svay-rieng"
+    },
+    {
+      "id": 17,
+      "name": "ratanakiri",
+      "value": "ratanakiri"
+    },
+    {
+      "id": 18,
+      "name": "kampong speu",
+      "value": "kampong-speu"
+    },
+    {
+      "id": 19,
+      "name": "prey veng",
+      "value": "prey-veng"
+    },
+    {
+      "id": 20,
+      "name": "kampong chhnang",
+      "value": "kampong-chhnang"
+    },
+    {
+      "id": 21,
+      "name": "preah vihear",
+      "value": "preah-vihear"
+    },
+    {
+      "id": 22,
+      "name": "preah sihanouk",
+      "value": "preah-sihanouk"
+    },
+    {
+      "id": 23,
+      "name": "oddar meanchey",
+      "value": "oddar-meanchey"
+    },
+    {
+      "id": 24,
+      "name": "pailin",
+      "value": "pailin"
+    },
+    {
+      "id": 25,
+      "name": "tboung khmum",
+      "value": "tboung-khmum"
+    }
+  ],
+
+  "types": [
+    {
+      "id": 1,
+      "categoryId": 2,
+      "name": "apartments",
+      "value": "apartments"
+    },
+    {
+      "id": 2,
+      "categoryId": 2,
+      "name": "flat",
+      "value": "flat"
+    },
+    {
+      "id": 3,
+      "categoryId": 2,
+      "name": "condo",
+      "value": "condo"
+    },
+    {
+      "id": 4,
+      "categoryId": 2,
+      "name": "house",
+      "value": "house"
+    },
+    {
+      "id": 5,
+      "categoryId": 2,
+      "name": "villa",
+      "value": "villa"
+    },
+    {
+      "id": 6,
+      "categoryId": 4,
+      "name": "laptop",
+      "value": "laptop"
+    },
+    {
+      "id": 7,
+      "categoryId": 4,
+      "name": "desktop",
+      "value": "desktop"
+    },
+    {
+      "id": 8,
+      "categoryId": 5,
+      "name": "t-shirt",
+      "value": "t-shirt"
+    },
+    {
+      "id": 9,
+      "categoryId": 5,
+      "name": "jacket",
+      "value": "jacket"
+    },
+    {
+      "id": 10,
+      "categoryId": 5,
+      "name": "shoes",
+      "value": "shoes"
+    },
+    {
+      "id": 11,
+      "categoryId": 5,
+      "name": "jean",
+      "value": "jean"
+    },
+    {
+      "id": 12,
+      "categoryId": 5,
+      "name": "dress",
+      "value": "dress"
+    }
+  ],
+
+  "conditions": [
+    {
+      "id": 1,
+      "categoryId": 4,
+      "name": "new",
+      "value": "new"
+    },
+    {
+      "id": 2,
+      "categoryId": 4,
+      "name": "used",
+      "value": "used"
+    }
+  ],
+
+  "price": [
+    {
+      "id": 1,
+      "categoryId": 1,
+      "max": 300000,
+      "min": 20000
+    },
+    {
+      "id": 2,
+      "categoryId": 1,
+      "max": 20000,
+      "min": 15000
+    },
+    {
+      "id": 3,
+      "categoryId": 1,
+      "max": 15000,
+      "min": 10000
+    },
+    {
+      "id": 4,
+      "categoryId": 1,
+      "max": 10000,
+      "min": 5000
+    },
+    {
+      "id": 5,
+      "categoryId": 1,
+      "max": 5000,
+      "min": 1000
+    },
+    {
+      "id": 6,
+      "categoryId": 2,
+      "max": 500000,
+      "min": 40000
+    },
+    {
+      "id": 7,
+      "categoryId": 2,
+      "max": 40000,
+      "min": 30000
+    },
+    {
+      "id": 8,
+      "categoryId": 2,
+      "max": 30000,
+      "min": 20000
+    },
+    {
+      "id": 9,
+      "categoryId": 2,
+      "max": 20000,
+      "min": 10000
+    },
+    {
+      "id": 10,
+      "categoryId": 3,
+      "max": 2000,
+      "min": 1500
+    },
+    {
+      "id": 11,
+      "categoryId": 3,
+      "max": 1500,
+      "min": 1000
+    },
+    {
+      "id": 12,
+      "categoryId": 3,
+      "max": 1000,
+      "min": 500
+    },
+    {
+      "id": 13,
+      "categoryId": 4,
+      "max": 10000,
+      "min": 5000
+    },
+    {
+      "id": 14,
+      "categoryId": 4,
+      "max": 5000,
+      "min": 4000
+    },
+    {
+      "id": 15,
+      "categoryId": 4,
+      "max": 4000,
+      "min": 3000
+    },
+    {
+      "id": 16,
+      "categoryId": 4,
+      "max": 3000,
+      "min": 2000
+    },
+    {
+      "id": 17,
+      "categoryId": 4,
+      "max": 2000,
+      "min": 1000
+    },
+    {
+      "id": 18,
+      "categoryId": 4,
+      "max": 1000,
+      "min": 0
+    },
+    {
+      "id": 19,
+      "categoryId": 5,
+      "max": 10000,
+      "min": 100
+    },
+    {
+      "id": 20,
+      "categoryId": 5,
+      "max": 100,
+      "min": 80
+    },
+    {
+      "id": 21,
+      "categoryId": 5,
+      "max": 80,
+      "min": 60
+    },
+    {
+      "id": 22,
+      "categoryId": 5,
+      "max": 60,
+      "min": 40
+    },
+    {
+      "id": 23,
+      "categoryId": 5,
+      "max": 40,
+      "min": 0
+    },
+    {
+      "id": 24,
+      "categoryId": 8,
+      "max": 10000,
+      "min": 100
+    },
+    {
+      "id": 25,
+      "categoryId": 8,
+      "max": 100,
+      "min": 80
+    },
+    {
+      "id": 26,
+      "categoryId": 8,
+      "max": 80,
+      "min": 60
+    },
+    {
+      "id": 27,
+      "categoryId": 8,
+      "max": 60,
+      "min": 40
+    },
+    {
+      "id": 28,
+      "categoryId": 8,
+      "max": 40,
+      "min": 0
+    },
+    {
+      "id": 29,
+      "categoryId": 9,
+      "max": 10000,
+      "min": 100
+    },
+    {
+      "id": 30,
+      "categoryId": 9,
+      "max": 100,
+      "min": 80
+    },
+    {
+      "id": 31,
+      "categoryId": 9,
+      "max": 80,
+      "min": 60
+    },
+    {
+      "id": 32,
+      "categoryId": 9,
+      "max": 60,
+      "min": 40
+    },
+    {
+      "id": 33,
+      "categoryId": 9,
+      "max": 40,
+      "min": 0
+    },
+    {
+      "id": 34,
+      "categoryId": 10,
+      "max": 10000,
+      "min": 100
+    },
+    {
+      "id": 35,
+      "categoryId": 10,
+      "max": 100,
+      "min": 80
+    },
+    {
+      "id": 36,
+      "categoryId": 10,
+      "max": 80,
+      "min": 60
+    },
+    {
+      "id": 37,
+      "categoryId": 10,
+      "max": 60,
+      "min": 40
+    },
+    {
+      "id": 38,
+      "categoryId": 10,
+      "max": 40,
+      "min": 0
+    },
+    {
+      "id": 39,
+      "categoryId": 11,
+      "max": 10000,
+      "min": 100
+    },
+    {
+      "id": 40,
+      "categoryId": 11,
+      "max": 100,
+      "min": 80
+    },
+    {
+      "id": 41,
+      "categoryId": 11,
+      "max": 80,
+      "min": 60
+    },
+    {
+      "id": 42,
+      "categoryId": 11,
+      "max": 60,
+      "min": 40
+    },
+    {
+      "id": 43,
+      "categoryId": 11,
+      "max": 40,
+      "min": 0
+    },
+    {
+      "id": 44,
+      "categoryId": 12,
+      "max": 10000,
+      "min": 100
+    },
+    {
+      "id": 45,
+      "categoryId": 12,
+      "max": 100,
+      "min": 80
+    },
+    {
+      "id": 46,
+      "categoryId": 12,
+      "max": 80,
+      "min": 60
+    },
+    {
+      "id": 47,
+      "categoryId": 12,
+      "max": 60,
+      "min": 40
+    },
+    {
+      "id": 48,
+      "categoryId": 12,
+      "max": 40,
+      "min": 0
+    }
+  ],
+
+  "brands": [
+    {
+      "id": 1,
+      "categoryId": 4,
+      "name": "apple",
+      "value": "apple"
+    },
+    {
+      "id": 2,
+      "categoryId": 4,
+      "name": "dell"
+    },
+    {
+      "id": 3,
+      "categoryId": 4,
+      "name": "asus",
+      "value": "asus"
+    },
+    {
+      "id": 4,
+      "categoryId": 4,
+      "name": "acer",
+      "value": "acer"
+    },
+    {
+      "id": 5,
+      "categoryId": 4,
+      "name": "lenovo",
+      "value": "lenovo"
+    }
+  ],
+
+  "screens": [
+    {
+      "id": 1,
+      "categoryId": 4,
+      "max": 1000,
+      "min": 16
+    },
+    {
+      "id": 2,
+      "categoryId": 4,
+      "max": 15.9,
+      "min": 15
+    },
+    {
+      "id": 3,
+      "categoryId": 4,
+      "max": 14.9,
+      "min": 14
+    },
+    {
+      "id": 4,
+      "categoryId": 4,
+      "max": 13.9,
+      "min": 13
+    },
+    {
+      "id": 5,
+      "categoryId": 4,
+      "max": 12.9,
+      "min": 12
+    },
+    {
+      "id": 6,
+      "categoryId": 4,
+      "max": 12,
+      "min": 0
+    }
+  ],
+
+  "rams": [
+    {
+      "id": 1,
+      "categoryId": 4,
+      "name": 16,
+      "value": 16
+    },
+    {
+      "id": 2,
+      "categoryId": 4,
+      "name": 8,
+      "value": 8
+    },
+    {
+      "id": 3,
+      "categoryId": 4,
+      "name": 4,
+      "value": 4
+    },
+    {
+      "id": 4,
+      "categoryId": 4,
+      "name": 2,
+      "value": 2
+    }
+  ],
+
+  "memories": [
+    {
+      "id": 1,
+      "categoryId": 4,
+      "name": 2,
+      "value": 2
+    },
+    {
+      "id": 2,
+      "categoryId": 4,
+      "name": 4,
+      "value": 2
+    },
+    {
+      "id": 3,
+      "categoryId": 4,
+      "name": 8,
+      "value": 8
+    },
+    {
+      "id": 4,
+      "categoryId": 4,
+      "name": 16,
+      "value": 16
+    },
+    {
+      "id": 5,
+      "categoryId": 4,
+      "name": 32,
+      "value": 32
+    }
   ]
- 
 }
