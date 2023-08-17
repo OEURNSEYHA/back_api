@@ -15,7 +15,7 @@
       "details": {
         "type": 6,
         "ram": 1,
-        "memory": 64,
+        "memory":1,
         "screen": 10,
         "brand": 1,
         "condition": 1
@@ -42,7 +42,7 @@
       "details": {
         "type": 6,
         "ram": 2,
-        "memory": 64,
+        "memory":2,
         "screen": 32,
         "brand": 1,
         "condition": 1
@@ -69,7 +69,7 @@
       "details": {
         "type": 7,
         "ram": 3,
-        "memory": 64,
+        "memory":3,
         "screen": 20,
         "brand": 2,
         "condition": 1
@@ -96,14 +96,14 @@
       "details": {
         "type": 6,
         "ram": 1,
-        "memory": 64,
+        "memory":4,
         "screen": 42,
         "brand": 2,
-        "condition": 1
+        "condition":1
       },
       "location": 1,
       "view": 1,
-      "categoryId": 4,
+      "categoryId":4,
       "pageId": 1,
       "createdAt": "05 July 2023",
       "updatedAt": ""
@@ -123,7 +123,7 @@
       "details": {
         "type": 7,
         "ram": 2,
-        "memory": 64,
+        "memory":5,
         "screen": 54,
         "brand": 3,
         "condition": 1
@@ -150,7 +150,7 @@
       "details": {
         "type": 7,
         "ram": 1,
-        "memory": 64,
+        "memory":1,
         "screen": 64,
         "brand": 3,
         "condition": 1
@@ -177,7 +177,7 @@
       "details": {
         "type": 7,
         "ram": 2,
-        "memory": 64,
+        "memory":1,
         "screen": 24,
         "brand": 1,
         "condition": 1
@@ -204,7 +204,7 @@
       "details": {
         "type": 6,
         "ram": 1,
-        "memory": 64,
+        "memory":5,
         "screen": 24,
         "brand": 4,
         "condition": 1
@@ -231,7 +231,7 @@
       "details": {
         "type": 6,
         "ram": 2,
-        "memory": 64,
+        "memory":3,
         "screen": 24,
         "brand": 5,
         "condition": 1
@@ -258,7 +258,7 @@
       "details": {
         "type": 7,
         "ram": 1,
-        "memory": 64,
+        "memory":2,
         "screen": 24,
         "brand": 5,
         "condition": 1
