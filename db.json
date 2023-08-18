@@ -269,6 +269,183 @@
       "pageId": 1,
       "createdAt": "05 July 2023",
       "updatedAt": ""
+    },
+    {
+      "id": "11",
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "description": "With Manjeera apartments you get the best of both worlds - private living with all the conveniences of a city apartment, but with the convenience of living close to the city's amenities.",
+      "thumnail": "https://i0.wp.com/fashionretail.blog/wp-content/uploads/2021/01/pexels-photo-994234.jpeg?fit=1200%2C881&ssl=1&w=640",
+      "images": [
+        "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
+        "https://icon-library.com/images/placeholder-image-icon/placeholder-image-icon-5.jpg",
+        "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
+        "https://icon-library.com/images/placeholder-image-icon/placeholder-image-icon-5.jpg"
+      ],
+      "price": 10,
+      "details": {
+        "for":1,
+        "size":1,
+        "discount": "10",
+        "type":1,
+        "brand":6,
+        "condition":3
+      },
+      "pageId": 1,
+      "location": "phnom penh",
+      "categoryId":5,
+      "view": 1,
+      "createdAt": "05 July 2023",
+      "updatedAt": ""
+    },
+    {
+      "id": "12",
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "description": "",
+      "thumnail": "https://img.freepik.com/free-photo/portrait-handsome-smiling-stylish-hipster-lambersexual-model-sexy-man-dressed-tshirt-jeans-fashion-male-isolated-blue-wall-studio_158538-26727.jpg?w=2000",
+      "images": [
+        "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
+        "https://icon-library.com/images/placeholder-image-icon/placeholder-image-icon-5.jpg",
+        "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
+        "https://icon-library.com/images/placeholder-image-icon/placeholder-image-icon-5.jpg"
+      ],
+      "price": 100,
+      "details": {
+        "for":1,
+        "discount": 0,
+        "type":1,
+        "size": 3,
+        "brand":6,
+        "condition":3
+      },
+      "pageId": 2,
+      "view": 1,
+      "location": "phnom penh",
+      "categoryId": 5
+    },
+    {
+      "id": "13",
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "description": "",
+      "thumnail": "https://i.pinimg.com/736x/67/48/7e/67487ee324a5b45474b3630909cc17c8.jpg",
+      "images": [
+        "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
+        "https://icon-library.com/images/placeholder-image-icon/placeholder-image-icon-5.jpg",
+        "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
+        "https://icon-library.com/images/placeholder-image-icon/placeholder-image-icon-5.jpg"
+      ],
+      "price": 100,
+      "details": {
+        "for":1,
+        "discound": 0,
+        "type":10,
+        "size":1,
+        "brand":5,
+        "condition":3
+      },
+      "pageId": 1,
+      "view": 1,
+      "location": "phnom penh",
+      "categoryId": 5
+    },
+    {
+      "id": "14",
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "description": "",
+      "thumnail": "https://images.unsplash.com/photo-1568252542512-9fe8fe9c87bb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZmFzaGlvbiUyMGRyZXNzfGVufDB8fDB8fHww&w=1000&q=80",
+      "images": [
+        "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
+        "https://icon-library.com/images/placeholder-image-icon/placeholder-image-icon-5.jpg",
+        "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
+        "https://icon-library.com/images/placeholder-image-icon/placeholder-image-icon-5.jpg"
+      ],
+      "price": 100,
+      "details": {
+        "for":2,
+        "discount": 0,
+        "type":12,
+        "size": 4,
+        "brand":6,
+        "condition":3
+      },
+      "view": 1,
+      "pageId": 1,
+      "location": "phnom penh",
+      "categoryId": 5 
+    },
+    {
+      "id": "15",
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "description": "",
+      "thumnail": "https://assets.adidas.com/images/w_600,f_auto,q_auto/89afa6a48d7d4732b8daaead00ed1b45_9366/Start_Your_Run_Running_Shoes_Black_GY9234_01_standard.jpg",
+      "images": [
+        "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
+        "https://icon-library.com/images/placeholder-image-icon/placeholder-image-icon-5.jpg",
+        "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
+        "https://icon-library.com/images/placeholder-image-icon/placeholder-image-icon-5.jpg"
+      ],
+      "price": 30,
+      "details": {
+        "for":2,
+        "discount": 0,
+        "type":10,
+        "size": 4,
+        "brand":7,
+        "condition":3
+      },
+      "view": 1,
+      "pageId": 1,
+      "location": "phnom penh",
+      "categoryId": 5
+    },
+    {
+      "id": "16",
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "description": "",
+      "thumnail": "https://cdn.media.amplience.net/i/frasersdev/62310630_o.jpg?v=220426172032",
+      "images": [
+        "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
+        "https://icon-library.com/images/placeholder-image-icon/placeholder-image-icon-5.jpg",
+        "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
+        "https://icon-library.com/images/placeholder-image-icon/placeholder-image-icon-5.jpg"
+      ],
+      "price": 30,
+      "details": {
+        "for":1,
+        "discount": 0,
+        "type":8,
+        "size": 5,
+        "brand":6,
+        "condition":3
+      },
+      "pageId": 1,
+      "condition": "new",
+      "location": "phnom penh",
+      "categoryId": 5
+    },
+    {
+      "id": "17",
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "description": "",
+      "thumnail": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/f85f7e8b170e40c0925fad47010930fa_9366/iconic-tricot-jacket-extended-size.jpg",
+      "images": [
+        "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
+        "https://icon-library.com/images/placeholder-image-icon/placeholder-image-icon-5.jpg",
+        "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
+        "https://icon-library.com/images/placeholder-image-icon/placeholder-image-icon-5.jpg"
+      ],
+      "price": 200,
+      "details": {
+        "for":1,
+        "discount": 0,
+        "type":9,
+        "size":2,
+        "brand":6,
+        "condition":3
+      },
+      "view": 1,
+      "pageId": 1,
+      "location": "phnom penh",
+      "categoryId": 5
     }
   ],
   "categories": [
@@ -700,9 +877,10 @@
       "name": "dress",
       "value": "dress"
     }
+   
   ],
 
-  "conditions": [
+  "conditions":[
     {
       "id": 1,
       "categoryId": 4,
@@ -714,7 +892,20 @@
       "categoryId": 4,
       "name": "used",
       "value": "used"
+    },
+    {
+      "id": 3,
+      "categoryId": 5,
+      "name": "new",
+      "value": "new"
+    },
+    {
+      "id": 4,
+      "categoryId": 5,
+      "name": "used",
+      "value": "used"
     }
+
   ],
 
   "price": [
@@ -1009,6 +1200,7 @@
   ],
 
   "brands": [
+
     {
       "id": 1,
       "categoryId": 4,
@@ -1037,6 +1229,30 @@
       "categoryId": 4,
       "name": "lenovo",
       "value": "lenovo"
+    },
+    {
+      "id":6,
+      "categoryId":5,
+      "name": "adidas",
+      "value": "adidas"
+    },
+    {
+      "id":7,
+      "categoryId":5,
+      "name": "nike",
+      "value": "nike"
+    },
+    {
+      "id":8,
+      "categoryId":5,
+      "name": "lv",
+      "value": "lv"
+    },
+    {
+      "id":9,
+      "categoryId":5,
+      "name": "lavies",
+      "value": "lavies"
     }
   ],
 
@@ -1136,6 +1352,54 @@
       "categoryId": 4,
       "name": 32,
       "value": 32
+    }
+  ],
+
+  "for":[
+    {
+      "id": 1,
+      "categoryId":5,
+      "name": "men",
+      "value":"men"
+    },
+    {
+      "id": 2,
+      "categoryId":5,
+      "name": "women",
+      "value":"women"
+    }
+  ],
+
+  "size": [
+    {
+      "id": 1,
+      "categoryId":5,
+      "name": "xxl",
+      "value":"xxl"
+    },
+    {
+      "id": 2,
+      "categoryId":5,
+      "name": "xl",
+      "value": "xl"
+    },
+    {
+      "id": 3,
+      "categoryId":5,
+      "name": "l",
+      "value": "l"
+    },
+    {
+      "id": 4,
+      "categoryId":5,
+      "name": "m",
+      "value": "m"
+    },
+    {
+      "id": 5,
+      "categoryId":5,
+      "name": "s",
+      "value": "s"
     }
   ]
 }
