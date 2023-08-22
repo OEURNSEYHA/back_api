@@ -876,7 +876,92 @@
       "categoryId": 5,
       "name": "dress",
       "value": "dress"
+    },
+    {
+      "id": 13,
+      "categoryId":6,
+      "name": "account/finance",
+      "value": "account-finance",
+      "image": "../../assets/JobImage/finance.png"
+    },
+    {
+      "id": 14,
+      "categoryId":6,
+      "name": "education/infomation",
+      "value": "education-infomation",
+      "image": "../../assets/JobImage/education.png"
+    },
+    {
+      "id": 15,
+      "categoryId":6,
+      "name": "engineering/architecture",
+      "value": "engineering-architecture",
+      "image": "../../assets/JobImage/egineer.png"
+    },
+    {
+      "id": 16,
+      "categoryId":6,
+      "name": "production",
+      "value": "production",
+      "image": "../../assets/JobImage/production.png"
+    },
+    {
+      "id": 17,
+      "categoryId":6,
+      "name": "hr/development",
+      "value": "hr-development",
+      "image": "../../assets/JobImage/Hr.png"
+    },
+    {
+      "id": 18,
+      "categoryId":6,
+      "name": "design/creative",
+      "value": "design-creative",
+      "image": "../../assets/JobImage/design.png"
+    },
+    {
+      "id": 19,
+      "categoryId":6,
+      "name": "technology",
+      "value": "technology",
+      "image": "../../assets/JobImage/technology.png"
+    },
+    {
+      "id": 20,
+      "categoryId":6,
+      "name": "medicin",
+      "value": "medicin",
+      "image": "../../assets/JobImage/medicin.png"
+    },
+    {
+      "id": 21,
+      "categoryId":6,
+      "name": "art/culture",
+      "value": "art-culture",
+      "image": "../../assets/JobImage/art.png"
+    },
+    {
+      "id": 22,
+      "categoryId":6,
+      "name": "marketing/advertising",
+      "value": "marketing-advertising",
+      "image": "../../assets/JobImage/marketing.png"
+    },
+    {
+      "id": 23,
+      "categoryId":6,
+      "name": "legal",
+      "value": "legal",
+      "image": "../../assets/JobImage/legal.png"
+    },
+    {
+      "id": 24,
+      "categoryId":6,
+      "name": "frelance/dilevers",
+      "value": "frelance-dilevers",
+      "image": "../../assets/JobImage/frelance.png"
     }
+
    
   ],
 
@@ -1200,7 +1285,6 @@
   ],
 
   "brands": [
-
     {
       "id": 1,
       "categoryId": 4,
@@ -1401,5 +1485,349 @@
       "name": "s",
       "value": "s"
     }
+  ],
+
+  "best_way": [
+    {
+      "id": "1",
+      "name": "agen"
+    },
+    {
+      "id": "2",
+      "name": "full time"
+    },
+    {
+      "id": "3",
+      "name": "part time"
+    },
+    {
+      "id": "4",
+      "name": "internship"
+    }
+  ],
+
+  "jobs": [
+    {
+      "id": "1",
+      "pageId": 1,
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "description": "Get a Scholarship on admission in Alberta in Canada 2024 is open for International Students . The scholarship allows Undergraduate level programm(s) in the field of All Subjects taught at University of Alberta Canada . The deadline of the scholarship is 11 Jan 2023.",
+      "thumnail": "https://i.pinimg.com/736x/82/c6/5b/82c65b9bb0a75026fc4c82a438b4cc9b.jpg",
+      "type": "technology",
+      "best_way": "agen",
+      "salary": "$500-$1000",
+      "closeDate": "12-12-2023",
+      "location": "phnom penh",
+      "category": "jobs",
+      "createdAt": "10-11-2023"
+    },
+    {
+      "id": "2",
+      "pageId": 3,
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "description": "Get a Scholarship on admission in Alberta in Canada 2024 is open for International Students . The scholarship allows Undergraduate level programm(s) in the field of All Subjects taught at University of Alberta Canada . The deadline of the scholarship is 11 Jan 2023.",
+      "thumnail": "https://i.pinimg.com/736x/82/c6/5b/82c65b9bb0a75026fc4c82a438b4cc9b.jpg",
+      "best_way": "full time",
+      "type": "technology",
+      "salary": "$800-$1200",
+      "closeDate": "12-12-2023",
+      "location": "phnom penh",
+      "category": "jobs",
+      "createdAt": "10-11-2023"
+    },
+    {
+      "id": "3",
+      "pageId": 2,
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "description": "Get a Scholarship on admission in Alberta in Canada 2024 is open for International Students . The scholarship allows Undergraduate level programm(s) in the field of All Subjects taught at University of Alberta Canada . The deadline of the scholarship is 11 Jan 2023.",
+      "thumnail": "https://i.pinimg.com/736x/82/c6/5b/82c65b9bb0a75026fc4c82a438b4cc9b.jpg",
+      "type": "technology",
+      "best_way": "part time",
+      "salary": "$500-$1000",
+      "closeDate": "12-12-2023",
+      "location": "kandal",
+      "category": "jobs",
+      "createdAt": "10-11-2023"
+    },
+    {
+      "id": "4",
+      "pageId": 1,
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "description": "Get a Scholarship on admission in Alberta in Canada 2024 is open for International Students . The scholarship allows Undergraduate level programm(s) in the field of All Subjects taught at University of Alberta Canada . The deadline of the scholarship is 11 Jan 2023.",
+      "thumnail": "https://i.pinimg.com/736x/82/c6/5b/82c65b9bb0a75026fc4c82a438b4cc9b.jpg",
+      "type": "technology",
+      "best_way": "internship",
+      "salary": "",
+      "closeDate": "12-12-2023",
+      "location": "phnom penh",
+      "category": "jobs",
+      "createdAt": "10-11-2023"
+    },
+    {
+      "id": "5",
+      "pageId": 1,
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "description": "Get a Scholarship on admission in Alberta in Canada 2024 is open for International Students . The scholarship allows Undergraduate level programm(s) in the field of All Subjects taught at University of Alberta Canada . The deadline of the scholarship is 11 Jan 2023.",
+      "thumnail": "https://i.pinimg.com/736x/82/c6/5b/82c65b9bb0a75026fc4c82a438b4cc9b.jpg",
+      "type": "account-finance",
+      "best_way": "internship",
+      "salary": "",
+      "closeDate": "12-12-2023",
+      "location": "phnom penh",
+      "category": "jobs",
+      "createdAt": "10-11-2023"
+    },
+    {
+      "id": "6",
+      "pageId": 1,
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "description": "Get a Scholarship on admission in Alberta in Canada 2024 is open for International Students . The scholarship allows Undergraduate level programm(s) in the field of All Subjects taught at University of Alberta Canada . The deadline of the scholarship is 11 Jan 2023.",
+      "thumnail": "https://i.pinimg.com/736x/82/c6/5b/82c65b9bb0a75026fc4c82a438b4cc9b.jpg",
+      "type": "account-finance",
+      "best_way": "internship",
+      "salary": "",
+      "closeDate": "12-12-2023",
+      "location": "phnom penh",
+      "category": "jobs",
+      "createdAt": "10-11-2023"
+    },
+    {
+      "id": "7",
+      "pageId": 1,
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "description": "Get a Scholarship on admission in Alberta in Canada 2024 is open for International Students . The scholarship allows Undergraduate level programm(s) in the field of All Subjects taught at University of Alberta Canada . The deadline of the scholarship is 11 Jan 2023.",
+      "thumnail": "https://i.pinimg.com/736x/82/c6/5b/82c65b9bb0a75026fc4c82a438b4cc9b.jpg",
+      "type": "account-finance",
+      "best_way": "internship",
+      "salary": "",
+      "closeDate": "12-12-2023",
+      "location": "phnom penh",
+      "category": "jobs",
+      "createdAt": "10-11-2023"
+    }
+
+  ],
+
+  "schoolarships": [
+    {
+      "id": "1",
+      "pageId": 1,
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "description": "Get a Scholarship on admission in Alberta in Canada 2024 is open for International Students . The scholarship allows Undergraduate level programm(s) in the field of All Subjects taught at University of Alberta Canada . The deadline of the scholarship is 11 Jan 2023.",
+      "thumnail": "",
+      "university": "Russia University",
+      "spend": "fully funded",
+      "subject": {
+        "title": "all subject",
+        "description": "Following subject are available to study under this scholarship program"
+      },
+      "degree": {
+        "title": "php",
+        "description": "Get a Scholarship on admission in Alberta in Canada 2024 is available to undertake Undergraduate level programs at University of Alberta Canada."
+      },
+      "dateline": "12-12-2023",
+      "location": "phnom penh",
+      "category": "schollarship"
+    },
+    {
+      "id": "2",
+      "pageId": 1,
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "description": "Get a Scholarship on admission in Alberta in Canada 2024 is open for International Students . The scholarship allows Undergraduate level programm(s) in the field of All Subjects taught at University of Alberta Canada . The deadline of the scholarship is 11 Jan 2023.",
+      "thumnail": "",
+      "university": "Russia University",
+      "spend": "fully funded",
+      "subject": {
+        "title": "all subject",
+        "description": "Following subject are available to study under this scholarship program"
+      },
+      "degree": {
+        "title": "php",
+        "description": "Get a Scholarship on admission in Alberta in Canada 2024 is available to undertake Undergraduate level programs at University of Alberta Canada."
+      },
+      "dateline": "12-12-2023",
+      "location": "phnom penh",
+      "category": "schollarship"
+    },
+    {
+      "id": "3",
+      "pageId": 2,
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "description": "Get a Scholarship on admission in Alberta in Canada 2024 is open for International Students . The scholarship allows Undergraduate level programm(s) in the field of All Subjects taught at University of Alberta Canada . The deadline of the scholarship is 11 Jan 2023.",
+      "thumnail": "",
+      "university": "Russia University",
+      "spend": "fully funded",
+      "subject": {
+        "title": "all subject",
+        "description": "Following subject are available to study under this scholarship program"
+      },
+      "degree": {
+        "title": "master",
+        "description": "Get a Scholarship on admission in Alberta in Canada 2024 is available to undertake Undergraduate level programs at University of Alberta Canada."
+      },
+      "dateline": "12-12-2023",
+      "location": "phnom penh",
+      "category": "schollarship"
+    },
+    {
+      "id": "4",
+      "pageId": 1,
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "description": "Get a Scholarship on admission in Alberta in Canada 2024 is open for International Students . The scholarship allows Undergraduate level programm(s) in the field of All Subjects taught at University of Alberta Canada . The deadline of the scholarship is 11 Jan 2023.",
+      "university": "Russia University",
+      "spend": "fully funded",
+      "subject": {
+        "title": "all subject",
+        "description": "Following subject are available to study under this scholarship program"
+      },
+      "degree": {
+        "title": "php",
+        "description": "Get a Scholarship on admission in Alberta in Canada 2024 is available to undertake Undergraduate level programs at University of Alberta Canada."
+      },
+      "dateline": "12-12-2023",
+      "location": "phnom penh",
+      "category": "schollarship"
+    }
+  ],
+
+  "pages": [
+    {
+      "id": 1,
+      "title": "Cambodia car",
+      "slug": "cambodia-car",
+      "location": "#3, St 259, Sangkat Teok Laak1, Khan Toul Kork, Phnom Penh, Cambodia",
+      "category": "restaurants",
+      "profile": "https://images.unsplash.com/photo-1599305445671-ac291c95aaa9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bG9nb3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "socialLink": {
+        "facebook": "http://www.facebook.com",
+        "youtube": "http://www.youtube.com"
+      },
+      "about": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aut quisquam nostrum doloribus molestias? Voluptates dignissimos aut aspernatur, facere numquam vitae rerum in dolore mollitia, officia iste maxime deleniti ipsa sequi?",
+      "address": "#3, St 259, Sangkat Teok Laak1, Khan Toul Kork, Phnom Penh, Cambodia",
+      "email": "email@example.com",
+      "phone": "0102345678",
+      "communicationPageIds": [2, 4],
+      "createdAt": "2023-07-18"
+    },
+    {
+      "id": 2,
+      "title": "Auto Car",
+      "slug": "auto-car",
+      "location": "#3, St 259, Sangkat Teok Laak1, Khan Toul Kork, Phnom Penh, Cambodia 12000",
+      "category": "restaurants",
+      "profile": "https://images.unsplash.com/photo-1553835973-dec43bfddbeb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8bG9nb3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "socialLink": {
+        "facebook": "http://www.facebook.com",
+        "youtube": "http://www.youtube.com",
+        "website": "http://www.earth.com"
+      },
+      "about": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aut quisquam nostrum doloribus molestias? Voluptates dignissimos aut aspernatur, facere numquam vitae rerum in dolore mollitia, officia iste maxime deleniti ipsa sequi?",
+      "address": "#3, St 259, Sangkat Teok Laak1, Khan Toul Kork, Phnom Penh, Cambodia",
+      "email": "email@example.com",
+      "phone": "0102345678",
+      "communicationPageIds": [1, 3, 7],
+      "createdAt": "2023-07-18"
+    },
+    {
+      "id": 3,
+      "title": "Top car",
+      "slug": "top-car",
+      "location": "#3, St 259, Sangkat Teok Laak1, Khan Toul Kork, Phnom Penh, Cambodia 12000",
+      "category": "clubs",
+      "profile": "https://images.unsplash.com/photo-1549924231-f129b911e442?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGxvZ298ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+      "socialLink": {
+        "facebook": "http://www.facebook.com",
+        "youtube": "http://www.youtube.com",
+        "website": "http://www.earth.com"
+      },
+      "about": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aut quisquam nostrum doloribus molestias? Voluptates dignissimos aut aspernatur, facere numquam vitae rerum in dolore mollitia, officia iste maxime deleniti ipsa sequi?",
+      "address": "#3, St 259, Sangkat Teok Laak1, Khan Toul Kork, Phnom Penh, Cambodia",
+      "email": "email@example.com",
+      "phone": "0102345678",
+      "communicationPageIds": [3],
+      "createdAt": "2023-07-18"
+    },
+    {
+      "id": 4,
+      "title": "Special car",
+      "slug": "special-car",
+      "location": "#3, St 259, Sangkat Teok Laak1, Khan Toul Kork, Phnom Penh, Cambodia 12000",
+      "category": "hotels",
+      "profile": "https://images.unsplash.com/photo-1516876437184-593fda40c7ce?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGxvZ298ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+      "socialLink": {
+        "facebook": "http://www.facebook.com",
+        "youtube": "http://www.youtube.com",
+        "website": "http://www.earth.com"
+      },
+      "about": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aut quisquam nostrum doloribus molestias? Voluptates dignissimos aut aspernatur, facere numquam vitae rerum in dolore mollitia, officia iste maxime deleniti ipsa sequi?",
+      "address": "#3, St 259, Sangkat Teok Laak1, Khan Toul Kork, Phnom Penh, Cambodia",
+      "email": "email@example.com",
+      "phone": "0102345678",
+      "communicationPageIds": [2, 7],
+      "createdAt": "2023-07-18"
+    },
+    {
+      "id": 5,
+      "title": "Modern car",
+      "slug": "modern-car",
+      "location": "#3, St 259, Sangkat Teok Laak1, Khan Toul Kork, Phnom Penh, Cambodia 12000",
+      "category": "restaurants",
+      "profile": "https://plus.unsplash.com/premium_photo-1676243407463-468804b9ecaf?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGxvZ298ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+      "socialLink": {
+        "facebook": "http://www.facebook.com",
+        "youtube": "http://www.youtube.com",
+        "website": "http://www.earth.com"
+      },
+      "about": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aut quisquam nostrum doloribus molestias? Voluptates dignissimos aut aspernatur, facere numquam vitae rerum in dolore mollitia, officia iste maxime deleniti ipsa sequi?",
+      "address": "#3, St 259, Sangkat Teok Laak1, Khan Toul Kork, Phnom Penh, Cambodia",
+      "email": "email@example.com",
+      "phone": "0102345678",
+      "communicationPageIds": [6],
+      "createdAt": "2023-07-18"
+    },
+    {
+      "id": 6,
+      "title": "Mix Car",
+      "slug": "mix-car",
+      "location": "#3, St 259, Sangkat Teok Laak1, Khan Toul Kork, Phnom Penh, Cambodia 12000",
+      "category": "restaurants",
+      "profile": "https://images.unsplash.com/photo-1611488006001-eb993d4d2ec4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjh8fGxvZ298ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+      "socialLink": {
+        "facebook": "http://www.facebook.com",
+        "youtube": "http://www.youtube.com",
+        "website": "http://www.earth.com"
+      },
+      "about": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aut quisquam nostrum doloribus molestias? Voluptates dignissimos aut aspernatur, facere numquam vitae rerum in dolore mollitia, officia iste maxime deleniti ipsa sequi?",
+      "address": "#3, St 259, Sangkat Teok Laak1, Khan Toul Kork, Phnom Penh, Cambodia",
+      "email": "email@example.com",
+      "phone": "0102345678",
+      "communicationPageIds": [1],
+      "createdAt": "2023-07-18"
+    },
+    {
+      "id": 7,
+      "title": "Online Fashion",
+      "slug": "online-fashion",
+      "location": "#3, St 259, Sangkat Teok Laak1, Khan Toul Kork, Phnom Penh, Cambodia 12000",
+      "category": "clubs",
+      "profile": "https://images.unsplash.com/photo-1590874315261-788881621f7a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzN8fGxvZ298ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+      "socialLink": {
+        "facebook": "http://www.facebook.com",
+        "youtube": "http://www.youtube.com",
+        "website": "http://www.earth.com"
+      },
+      "about": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aut quisquam nostrum doloribus molestias? Voluptates dignissimos aut aspernatur, facere numquam vitae rerum in dolore mollitia, officia iste maxime deleniti ipsa sequi?",
+      "address": "#3, St 259, Sangkat Teok Laak1, Khan Toul Kork, Phnom Penh, Cambodia",
+      "email": "email@example.com",
+      "phone": "0102345678",
+      "communicationPageIds": [5],
+      "createdAt": "2023-07-18"
+    }
   ]
+
+  
+  
+  
+
+
 }
