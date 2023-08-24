@@ -1,3 +1,4 @@
+
 {
   "products": [
     {
@@ -451,75 +452,75 @@
   "categories": [
     {
       "id": 1,
-      "name": "cars & vichicales",
+      "name": "cars&vichicales",
       "slug": "cars-vichicles",
-      "image": "./public/menu-images/car.png"
+      "image": "./menu-images/car.png"
     },
     {
       "id": 2,
       "name": "properties",
       "slug": "properties",
-      "image": "./public/menu-images/property.png"
+      "image": "./menu-images/property.png"
     },
     {
       "id": 3,
       "name": "mobiles",
       "slug": "mobiles",
-      "image": "./public/menu-images/mobile.png"
+      "image": "./menu-images/mobile.png"
     },
     {
       "id": 4,
       "name": "computers",
       "slug": "computers",
-      "image": "./public/menu-images/laptop.png"
+      "image": "./menu-images/laptop.png"
     },
     {
       "id": 5,
       "name": "fashions",
       "slug": "fashions",
-      "image": "./public/menu-images/fashion.png"
+      "image": "./menu-images/fashion.png"
     },
     {
       "id": 6,
       "name": "jobs",
       "slug": "jobs",
-      "image": "./public/menu-images/job.png"
+      "image": "./menu-images/job.png"
     },
     {
       "id": 7,
       "name": "services",
       "slug": "services",
-      "image": "./public/menu-images/service.png"
+      "image": "./menu-images/service.png"
     },
     {
       "id": 8,
       "name": "funitures",
       "slug": "funitures",
-      "image": "./public/menu-images/furniture.png"
+      "image": "./menu-images/furniture.png"
     },
     {
       "id": 9,
       "name": "pets",
       "slug": "pets",
-      "image": "./public/menu-images/pet.png"
+      "image": "./menu-images/pet.png"
     },
     {
       "id": 10,
       "name": "education",
       "slug": "education",
-      "image": "./public/menu-images/book.png"
+      "image": "./menu-images/book.png"
     },
     {
       "id": 11,
-      "name": "kid & toy",
+      "name": "kid&toy",
       "slug": "kid-toy",
-      "image": "./public/menu-images/kids&toy.png"
+      "image": "./menu-images/kids&toy.png"
     },
     {
       "id": 12,
       "name": "foods",
       "slug": "foods",
-      "image": "./public/menu-images/food.png"
+      "image": "./menu-images/food.png"
     }
   ],
 
@@ -674,6 +675,78 @@
       "name": "accessories",
       "value": "accessories"
     }
+    
+  ],
+
+  "accesseries" : [
+    {
+      "id":1,
+      "categoryId" :4,
+      "name": "mouse",
+      "value": "mouse"
+    },
+    {
+      "id":2,
+      "categoryId":4,
+      "name":"ram",
+      "value": "ram"
+    },
+    {
+      "id":3,
+      "categoryId":4,
+      "name":"cpu",
+      "value":"cpu"
+    },
+    {
+      "id":4,
+      "categoryId":4,
+      "name":"keyboard",
+      "value":"keyboard"
+    },
+    {
+      "id":5,
+      "categoryId":4,
+      "name":"mousepad",
+      "value":"mousepad"
+    },
+    {
+      "id":6,
+      "categoryId":4,
+      "name":"monitor",
+      "value":"monitor"
+    },
+    {
+      "id":7,
+      "categoryId":4,
+      "name":"charging cable",
+      "value":"charging-cable"
+    },
+    {
+      "id":8,
+      "categoryId":3,
+      "name":"screen",
+      "value":"sreen"
+    },
+    {
+      "id":9,
+      "name":"ear headphone",
+      "value":"ear-headphone"
+    },
+    {
+      "id":10,
+      "name":"battery",
+      "value":"battery"
+    },
+    {
+      "id":11,
+      "name":"selfie sticks",
+      "value":"selfie-sticks"
+    },
+    {
+      "id":12,
+      "name":"cases&covers",
+      "value":"cases-covers"
+    }
   ],
 
   "locations": [
@@ -806,10 +879,12 @@
 
   "types": [
     {
+      
       "id": 1,
       "categoryId": 2,
       "name": "apartments",
       "value": "apartments"
+
     },
     {
       "id": 2,
@@ -882,87 +957,138 @@
       "categoryId":6,
       "name": "account/finance",
       "value": "account-finance",
-      "image": "../../assets/JobImage/finance.png"
+      "image": "./menu-images/finance.png"
     },
     {
       "id": 14,
       "categoryId":6,
       "name": "education/infomation",
       "value": "education-infomation",
-      "image": "../../assets/JobImage/education.png"
+      "image": "./menu-images/education.png"
     },
     {
       "id": 15,
       "categoryId":6,
       "name": "engineering/architecture",
       "value": "engineering-architecture",
-      "image": "../../assets/JobImage/egineer.png"
+      "image": "./menu-images/egineer.png"
     },
     {
       "id": 16,
       "categoryId":6,
       "name": "production",
       "value": "production",
-      "image": "../../assets/JobImage/production.png"
+      "image": "./menu-images/production.png"
     },
     {
       "id": 17,
       "categoryId":6,
       "name": "hr/development",
       "value": "hr-development",
-      "image": "../../assets/JobImage/Hr.png"
+      "image": "./menu-images/Hr.png"
     },
     {
       "id": 18,
       "categoryId":6,
       "name": "design/creative",
       "value": "design-creative",
-      "image": "../../assets/JobImage/design.png"
+      "image": "./menu-images/design.png"
     },
     {
       "id": 19,
       "categoryId":6,
       "name": "technology",
       "value": "technology",
-      "image": "../../assets/JobImage/technology.png"
+      "image": "./menu-images/technology.png"
     },
     {
       "id": 20,
       "categoryId":6,
       "name": "medicin",
       "value": "medicin",
-      "image": "../../assets/JobImage/medicin.png"
+      "image": "./menu-images/medicin.png"
     },
     {
       "id": 21,
       "categoryId":6,
       "name": "art/culture",
       "value": "art-culture",
-      "image": "../../assets/JobImage/art.png"
+      "image": "./menu-images/art.png"
     },
     {
       "id": 22,
       "categoryId":6,
       "name": "marketing/advertising",
       "value": "marketing-advertising",
-      "image": "../../assets/JobImage/marketing.png"
+      "image": "./menu-images/marketing.png"
     },
     {
       "id": 23,
       "categoryId":6,
       "name": "legal",
       "value": "legal",
-      "image": "../../assets/JobImage/legal.png"
+      "image": "./menu-images/legal.png"
     },
     {
       "id": 24,
       "categoryId":6,
       "name": "frelance/dilevers",
       "value": "frelance-dilevers",
-      "image": "../../assets/JobImage/frelance.png"
+      "image": "./menu-images/frelance.png"
+    },
+    {
+      "id":25,
+      "categoryId":8,
+      "name": "sofa set",
+      "value": "sofa-set"
+    },
+    {
+      "id": 26,
+      "categoryId":8,
+      "name": "bed set",
+      "value": "bed-set"
+    },
+    {
+      "id":27,
+      "categoryId":8,
+      "name": "dining table",
+      "value": "dining-table"
+    },
+    {
+      "id":28,
+      "categoryId":8,
+      "name": "office chair",
+      "value": "office-chair"
+    }
+  ],
+
+  "meterail" : [
+    
+    {
+      "id": 1,
+      "categoryId":8,
+      "name":"metal",
+      "value":"metal"
+    },
+    {
+      "id": 2,
+      "categoryId":8,
+      "name":"solid wood",
+      "value":"solid-wood"
+    },
+    {
+      "id": 3,
+      "categoryId":8,
+      "name":"glass",
+      "value":"glass"
+    },
+    {
+      "id":4,
+      "categoryId":8,
+      "name":"other",
+      "value":"other"
     }
 
-   
   ],
 
   "conditions":[
