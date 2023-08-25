@@ -447,6 +447,31 @@
       "pageId": 1,
       "location": "phnom penh",
       "categoryId": 5
+    },
+    {
+      "id": "18",
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "description": "",
+      "thumbnail": "https://cdn.media.amplience.net/i/frasersdev/62310630_o.jpg?v=220426172032",
+      "images": [
+        "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
+        "https://icon-library.com/images/placeholder-image-icon/placeholder-image-icon-5.jpg",
+        "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
+        "https://icon-library.com/images/placeholder-image-icon/placeholder-image-icon-5.jpg"
+      ],
+      "price": 30,
+      "details": {
+        "for":1,
+        "discount": 0,
+        "type":8,
+        "size": 5,
+        "brand":6,
+        "condition":3
+      },
+      "pageId": 1,
+      "condition": "1",
+      "location": "phnom penh",
+      "categoryId":8
     }
   ],
   "categories": [
@@ -520,7 +545,7 @@
       "id": 12,
       "name": "foods",
       "slug": "foods",
-      "image": "./menu-images/food.png"
+      "image": "/menu-images/food.png"
     }
   ],
 
@@ -1059,11 +1084,72 @@
       "categoryId":8,
       "name": "office chair",
       "value": "office-chair"
+    },
+    {
+      "id": 29,
+      "categoryId":9,
+      "name": "bird",
+      "value": "bird"
+    },
+    {
+      "id":30,
+      "categoryId": 9,
+      "name": "cat",
+      "value": "cate"
+    },
+    {
+      "id": 31,
+      "categoryId":9,
+      "name": "dog",
+      "value": "dog"
+    },
+    {
+      "id":32,
+      "categoryId":9,
+      "name": "other",
+      "value": "other"
+    },
+    {
+      "id": 33,
+      "categoryId":10,
+      "name": "book",
+      "value": "book"
+    },
+    {
+      "id": 34,
+      "categoryId":10,
+      "name": "individual learn",
+      "value": "individual-learn"
+    },
+    {
+      "id": 35,
+      "categoryId":10,
+      "name": "accessories",
+      "value": "accessories"
+    },
+    
+    {
+      "id":36,
+      "categoryId":11,
+      "name": "toy&vechicles",
+      "value": "toy-vachicles"
+    },
+    {
+      "id":37,
+      "categoryId":11,
+      "name": "games&puzzles",
+      "value": "games-puzzles"
+    },
+    {
+      "id": 38,
+      "categoryId":11,
+      "name": "dolls",
+      "value": "dolls"
     }
+  
   ],
 
   "meterail" : [
-    
     {
       "id": 1,
       "categoryId":8,
