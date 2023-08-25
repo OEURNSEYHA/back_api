@@ -452,6 +452,31 @@
       "id": "18",
       "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
       "description": "",
+      "thumbnail": "https://rusticfurnituredepot.com/cdn/shop/products/BransonBedroom.jpg?v=1584238202",
+      "images": [
+        "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dallasdesignerfurniture.com%2Fitem_1175%2FOasis-White-Washed-Rustic-Bedroom-Set.htm&psig=AOvVaw3bwVGZag1GU03VmrwV8C4k&ust=1693023721638000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPD22P369oADFQAAAAAdAAAAABAJ",
+        "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.sidesfurniture.com%2Fcatalog%2Fbedroom-sets&psig=AOvVaw3bwVGZag1GU03VmrwV8C4k&ust=1693023721638000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPD22P369oADFQAAAAAdAAAAABAQ",
+        "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dallasdesignerfurniture.com%2Fitem_5000%2FTerra-White-Rustic-Bedroom-Set-with-Upholstered-Headboard.htm&psig=AOvVaw3bwVGZag1GU03VmrwV8C4k&ust=1693023721638000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPD22P369oADFQAAAAAdAAAAABAX"
+      ],
+      "price":1000,
+      "details": {
+        "for":1,
+        "discount": 0,
+        "type":8,
+        "size": 5,
+        "brand":6,
+        "condition":3
+      },
+      "pageId": 1,
+      "condition": "1",
+      "location": "phnom penh",
+      "categoryId":8
+    },
+
+    {
+      "id": "19",
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "description": "",
       "thumbnail": "https://cdn.media.amplience.net/i/frasersdev/62310630_o.jpg?v=220426172032",
       "images": [
         "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
@@ -1174,7 +1199,6 @@
       "name":"other",
       "value":"other"
     }
-
   ],
 
   "conditions":[
@@ -1202,7 +1226,6 @@
       "name": "used",
       "value": "used"
     }
-
   ],
 
   "price": [
