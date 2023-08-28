@@ -691,73 +691,86 @@
       "id": "11",
       "categoryId": 6,
       "name": "account & finance",
-      "value": "account-finance"
+      "value": "account-finance",
+      "image": "./menu-images/finance.png"
     },
     {
       "id": "12",
       "categoryId": 6,
       "name": "education & infomation",
-      "value": "education-infomation"
+      "value": "education-infomation",
+      "image": "./menu-images/education.png"
+
     },
     {
       "id": "13",
       "categoryId": 6,
       "name": "engineering & architecture",
-      "value": "engineering-architecture"
+      "value": "engineering-architecture",
+      "image": "./menu-images/egineer.png"
     },
     {
       "id": "14",
       "categoryId": 6,
       "name": "production",
-      "value": "production"
+      "value": "production",
+      "image": "./menu-images/production.png"
     },
     {
       "id": "15",
       "categoryId": 6,
       "name": "hr & development",
-      "value": "hr-development"
+      "value": "hr-development",
+      "image": "./menu-images/Hr.png"
     },
     {
       "id": "16",
       "categoryId": 6,
       "name": "design & creative",
-      "value": "design & creative"
+      "value": "design & creative",
+      "image": "./menu-images/design.png"
     },
     {
       "id": "17",
       "categoryId": 6,
       "name": "technology",
-      "value": "technology"
+      "value": "technology",
+      "image": "./menu-images/technology.png"
     },
     {
       "id": "18",
       "categoryId": 6,
       "name": "medicin",
-      "value": "medicin"
+      "value": "medicin",
+      "image": "./menu-images/medicin.png"
     },
     {
       "id": "19",
       "categoryId": 6,
       "name": "art-culture",
-      "value": "art-culture"
+      "value": "art-culture",
+      "image": "./menu-images/art.png"
     },
     {
       "id": "20",
       "categoryId": 6,
       "name": "marketing & advertising",
-      "value": "marketing-advertising"
+      "value": "marketing-advertising",
+      "image" : "./menu-images/marketing.png"
     },
     {
       "id": "21",
       "categoryId": 6,
       "name": "legal",
-      "value": "legal"
+      "value": "legal",
+      "image": "./menu-images/legal.png"
     },
     {
       "id": "22",
       "categoryId": 6,
       "name": "frelance & dilevers",
-      "value": "frelance-dilevers"
+      "value": "frelance-dilevers",
+      "image": "./menu-images/frelance.png"
     },
     {
       "id": "23",
