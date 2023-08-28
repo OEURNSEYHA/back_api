@@ -473,12 +473,11 @@
       "location": "phnom penh",
       "categoryId":8
     },
-
     {
       "id": "19",
       "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
       "description": "",
-      "thumbnail": "https://cdn.media.amplience.net/i/frasersdev/62310630_o.jpg?v=220426172032",
+      "thumbnail": "https://m.media-amazon.com/images/I/61sm5G3FMCL._AC_UF894,1000_QL80_DpWeblab_.jpg",
       "images": [
         "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
         "https://icon-library.com/images/placeholder-image-icon/placeholder-image-icon-5.jpg",
@@ -528,7 +527,182 @@
       "id": "21",
       "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
       "description": "",
-      "thumbnail": "https://cdn.media.amplience.net/i/frasersdev/62310630_o.jpg?v=220426172032",
+      "thumbnail": "https://www.at-home.co.in/cdn/shop/products/EliteEngineeredMarbleTopSolidWoodDiningTable.jpg?v=1671621485",
+      "images": [
+        "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
+        "https://icon-library.com/images/placeholder-image-icon/placeholder-image-icon-5.jpg",
+        "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
+        "https://icon-library.com/images/placeholder-image-icon/placeholder-image-icon-5.jpg"
+      ],
+      "price": 30,
+      "details": {
+        "for":1,
+        "discount": 0,
+        "type":8,
+        "size": 5,
+        "brand":6,
+        "condition":3
+      },
+      "pageId": 1,
+      "condition": "1",
+      "location": "phnom penh",
+      "categoryId":8
+    },
+    {
+      "id": "22",
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "description": "",
+      "thumbnail": "https://5.imimg.com/data5/ANDROID/Default/2022/6/II/KF/FM/2217388/product-jpeg.jpg",
+      "images": [
+        "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
+        "https://icon-library.com/images/placeholder-image-icon/placeholder-image-icon-5.jpg",
+        "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
+        "https://icon-library.com/images/placeholder-image-icon/placeholder-image-icon-5.jpg"
+      ],
+      "price": 30,
+      "details": {
+        "for":1,
+        "discount": 0,
+        "type":8,
+        "size": 5,
+        "brand":6,
+        "condition":3
+      },
+      "pageId": 1,
+      "condition": "1",
+      "location": "phnom penh",
+      "categoryId":8
+    },
+    {
+      "id": "23",
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "description": "",
+      "thumbnail": "https://5.imimg.com/data5/ANDROID/Default/2023/1/SJ/BJ/QN/80739810/product-jpeg.jpg",
+      "images": [
+        "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
+        "https://icon-library.com/images/placeholder-image-icon/placeholder-image-icon-5.jpg",
+        "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
+        "https://icon-library.com/images/placeholder-image-icon/placeholder-image-icon-5.jpg"
+      ],
+      "price": 30,
+      "details": {
+        "for":1,
+        "discount": 0,
+        "type":8,
+        "size": 5,
+        "brand":6,
+        "condition":3
+      },
+      "pageId": 1,
+      "condition": "1",
+      "location": "phnom penh",
+      "categoryId":8
+    },
+    {
+      "id": "24",
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "description": "",
+      "thumbnail": "https://www.gardeningexpress.co.uk/media/product/f3e/sicilia-luxury-grey-anthracite-high-back-corner-sofa-set-with-glass-topped-coffee-table-two-stools-cushions-29c.jpg",
+      "images": [
+        "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
+        "https://icon-library.com/images/placeholder-image-icon/placeholder-image-icon-5.jpg",
+        "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
+        "https://icon-library.com/images/placeholder-image-icon/placeholder-image-icon-5.jpg"
+      ],
+      "price": 30,
+      "details": {
+        "for":1,
+        "discount": 0,
+        "type":8,
+        "size": 5,
+        "brand":6,
+        "condition":3
+      },
+      "pageId": 1,
+      "condition": "1",
+      "location": "phnom penh",
+      "categoryId":8
+    },
+    {
+      "id": "25",
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "description": "",
+      "thumbnail": "https://www.gardeningexpress.co.uk/media/product/f3e/sicilia-luxury-grey-anthracite-high-back-corner-sofa-set-with-glass-topped-coffee-table-two-stools-cushions-29c.jpg",
+      "images": [
+        "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
+        "https://icon-library.com/images/placeholder-image-icon/placeholder-image-icon-5.jpg",
+        "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
+        "https://icon-library.com/images/placeholder-image-icon/placeholder-image-icon-5.jpg"
+      ],
+      "price": 30,
+      "details": {
+        "for":1,
+        "discount": 0,
+        "type":8,
+        "size": 5,
+        "brand":6,
+        "condition":3
+      },
+      "pageId": 1,
+      "condition": "1",
+      "location": "phnom penh",
+      "categoryId":8
+    },
+    {
+      "id": "26",
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "description": "",
+      "thumbnail": "https://www.gardeningexpress.co.uk/media/product/f3e/sicilia-luxury-grey-anthracite-high-back-corner-sofa-set-with-glass-topped-coffee-table-two-stools-cushions-29c.jpg",
+      "images": [
+        "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
+        "https://icon-library.com/images/placeholder-image-icon/placeholder-image-icon-5.jpg",
+        "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
+        "https://icon-library.com/images/placeholder-image-icon/placeholder-image-icon-5.jpg"
+      ],
+      "price": 30,
+      "details": {
+        "for":1,
+        "discount": 0,
+        "type":8,
+        "size": 5,
+        "brand":6,
+        "condition":3
+      },
+      "pageId": 1,
+      "condition": "1",
+      "location": "phnom penh",
+      "categoryId":8
+    },
+    {
+      "id": "27",
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "description": "",
+      "thumbnail": "https://www.gardeningexpress.co.uk/media/product/f3e/sicilia-luxury-grey-anthracite-high-back-corner-sofa-set-with-glass-topped-coffee-table-two-stools-cushions-29c.jpg",
+      "images": [
+        "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
+        "https://icon-library.com/images/placeholder-image-icon/placeholder-image-icon-5.jpg",
+        "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
+        "https://icon-library.com/images/placeholder-image-icon/placeholder-image-icon-5.jpg"
+      ],
+      "price": 30,
+      "details": {
+        "for":1,
+        "discount": 0,
+        "type":8,
+        "size": 5,
+        "brand":6,
+        "condition":3
+      },
+      "pageId": 1,
+      "condition": "1",
+      "location": "phnom penh",
+      "categoryId":8
+    },
+    {
+      "id": "28",
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "description": "",
+      "thumbnail": "https://www.gardeningexpress.co.uk/media/product/f3e/sicilia-luxury-grey-anthracite-high-back-corner-sofa-set-with-glass-topped-coffee-table-two-stools-cushions-29c.jpg",
       "images": [
         "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
         "https://icon-library.com/images/placeholder-image-icon/placeholder-image-icon-5.jpg",
@@ -549,7 +723,6 @@
       "location": "phnom penh",
       "categoryId":8
     }
-
   ],
   "categories": [
     {
@@ -689,103 +862,18 @@
     },
     {
       "id": "11",
-      "categoryId": 6,
-      "name": "account & finance",
-      "value": "account-finance",
-      "image": "./menu-images/finance.png"
-    },
-    {
-      "id": "12",
-      "categoryId": 6,
-      "name": "education & infomation",
-      "value": "education-infomation",
-      "image": "./menu-images/education.png"
-
-    },
-    {
-      "id": "13",
-      "categoryId": 6,
-      "name": "engineering & architecture",
-      "value": "engineering-architecture",
-      "image": "./menu-images/egineer.png"
-    },
-    {
-      "id": "14",
-      "categoryId": 6,
-      "name": "production",
-      "value": "production",
-      "image": "./menu-images/production.png"
-    },
-    {
-      "id": "15",
-      "categoryId": 6,
-      "name": "hr & development",
-      "value": "hr-development",
-      "image": "./menu-images/Hr.png"
-    },
-    {
-      "id": "16",
-      "categoryId": 6,
-      "name": "design & creative",
-      "value": "design & creative",
-      "image": "./menu-images/design.png"
-    },
-    {
-      "id": "17",
-      "categoryId": 6,
-      "name": "technology",
-      "value": "technology",
-      "image": "./menu-images/technology.png"
-    },
-    {
-      "id": "18",
-      "categoryId": 6,
-      "name": "medicin",
-      "value": "medicin",
-      "image": "./menu-images/medicin.png"
-    },
-    {
-      "id": "19",
-      "categoryId": 6,
-      "name": "art-culture",
-      "value": "art-culture",
-      "image": "./menu-images/art.png"
-    },
-    {
-      "id": "20",
-      "categoryId": 6,
-      "name": "marketing & advertising",
-      "value": "marketing-advertising",
-      "image" : "./menu-images/marketing.png"
-    },
-    {
-      "id": "21",
-      "categoryId": 6,
-      "name": "legal",
-      "value": "legal",
-      "image": "./menu-images/legal.png"
-    },
-    {
-      "id": "22",
-      "categoryId": 6,
-      "name": "frelance & dilevers",
-      "value": "frelance-dilevers",
-      "image": "./menu-images/frelance.png"
-    },
-    {
-      "id": "23",
       "categoryId": 10,
       "name": "book",
       "value": "book"
     },
     {
-      "id": "24",
+      "id": "12",
       "categoryId": 10,
       "name": "individual & learn",
       "value": "individual-learn"
     },
     {
-      "id": "25",
+      "id": "13",
       "categoryId": 6,
       "name": "accessories",
       "value": "accessories"
