@@ -1,4 +1,3 @@
-
 {
   "products": [
     {
@@ -16,7 +15,7 @@
       "details": {
         "type": 6,
         "ram": 1,
-        "memory":1,
+        "memory": 1,
         "screen": 10,
         "brand": 1,
         "condition": 1
@@ -43,7 +42,7 @@
       "details": {
         "type": 6,
         "ram": 2,
-        "memory":2,
+        "memory": 2,
         "screen": 32,
         "brand": 1,
         "condition": 1
@@ -70,7 +69,7 @@
       "details": {
         "type": 7,
         "ram": 3,
-        "memory":3,
+        "memory": 3,
         "screen": 20,
         "brand": 2,
         "condition": 1
@@ -97,14 +96,14 @@
       "details": {
         "type": 6,
         "ram": 1,
-        "memory":4,
+        "memory": 4,
         "screen": 42,
         "brand": 2,
-        "condition":1
+        "condition": 1
       },
       "location": 1,
       "view": 1,
-      "categoryId":4,
+      "categoryId": 4,
       "pageId": 1,
       "createdAt": "05 July 2023",
       "updatedAt": ""
@@ -124,7 +123,7 @@
       "details": {
         "type": 7,
         "ram": 2,
-        "memory":5,
+        "memory": 5,
         "screen": 54,
         "brand": 3,
         "condition": 1
@@ -151,7 +150,7 @@
       "details": {
         "type": 7,
         "ram": 1,
-        "memory":1,
+        "memory": 1,
         "screen": 64,
         "brand": 3,
         "condition": 1
@@ -178,7 +177,7 @@
       "details": {
         "type": 7,
         "ram": 2,
-        "memory":1,
+        "memory": 1,
         "screen": 24,
         "brand": 1,
         "condition": 1
@@ -205,7 +204,7 @@
       "details": {
         "type": 6,
         "ram": 1,
-        "memory":5,
+        "memory": 5,
         "screen": 24,
         "brand": 4,
         "condition": 1
@@ -232,7 +231,7 @@
       "details": {
         "type": 6,
         "ram": 2,
-        "memory":3,
+        "memory": 3,
         "screen": 24,
         "brand": 5,
         "condition": 1
@@ -259,7 +258,7 @@
       "details": {
         "type": 7,
         "ram": 1,
-        "memory":2,
+        "memory": 2,
         "screen": 24,
         "brand": 5,
         "condition": 1
@@ -284,16 +283,16 @@
       ],
       "price": 10,
       "details": {
-        "for":1,
-        "size":1,
+        "for": 1,
+        "size": 1,
         "discount": "10",
-        "type":1,
-        "brand":6,
-        "condition":3
+        "type": 1,
+        "brand": 6,
+        "condition": 3
       },
       "pageId": 1,
       "location": "phnom penh",
-      "categoryId":5,
+      "categoryId": 5,
       "view": 1,
       "createdAt": "05 July 2023",
       "updatedAt": ""
@@ -311,12 +310,12 @@
       ],
       "price": 100,
       "details": {
-        "for":1,
+        "for": 1,
         "discount": 0,
-        "type":1,
+        "type": 1,
         "size": 3,
-        "brand":6,
-        "condition":3
+        "brand": 6,
+        "condition": 3
       },
       "pageId": 2,
       "view": 1,
@@ -336,12 +335,12 @@
       ],
       "price": 100,
       "details": {
-        "for":1,
+        "for": 1,
         "discound": 0,
-        "type":10,
-        "size":1,
-        "brand":5,
-        "condition":3
+        "type": 10,
+        "size": 1,
+        "brand": 5,
+        "condition": 3
       },
       "pageId": 1,
       "view": 1,
@@ -361,17 +360,17 @@
       ],
       "price": 100,
       "details": {
-        "for":2,
+        "for": 2,
         "discount": 0,
-        "type":12,
+        "type": 12,
         "size": 4,
-        "brand":6,
-        "condition":3
+        "brand": 6,
+        "condition": 3
       },
       "view": 1,
       "pageId": 1,
       "location": "phnom penh",
-      "categoryId": 5 
+      "categoryId": 5
     },
     {
       "id": "15",
@@ -386,12 +385,12 @@
       ],
       "price": 30,
       "details": {
-        "for":2,
+        "for": 2,
         "discount": 0,
-        "type":10,
+        "type": 10,
         "size": 4,
-        "brand":7,
-        "condition":3
+        "brand": 7,
+        "condition": 3
       },
       "view": 1,
       "pageId": 1,
@@ -411,18 +410,17 @@
       ],
       "price": 30,
       "details": {
-        "for":1,
+        "for": 1,
         "discount": 0,
-        "type":8,
+        "type": 8,
         "size": 5,
-        "brand":6,
-        "condition":3
+        "brand": 6,
+        "condition": 3
       },
       "pageId": 1,
       "condition": "new",
       "location": "phnom penh",
       "categoryId": 5
-      
     },
     {
       "id": "17",
@@ -437,12 +435,12 @@
       ],
       "price": 200,
       "details": {
-        "for":1,
+        "for": 1,
         "discount": 0,
-        "type":9,
-        "size":2,
-        "brand":6,
-        "condition":3
+        "type": 9,
+        "size": 2,
+        "brand": 6,
+        "condition": 3
       },
       "view": 1,
       "pageId": 1,
@@ -459,22 +457,22 @@
         "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.sidesfurniture.com%2Fcatalog%2Fbedroom-sets&psig=AOvVaw3bwVGZag1GU03VmrwV8C4k&ust=1693023721638000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPD22P369oADFQAAAAAdAAAAABAQ",
         "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dallasdesignerfurniture.com%2Fitem_5000%2FTerra-White-Rustic-Bedroom-Set-with-Upholstered-Headboard.htm&psig=AOvVaw3bwVGZag1GU03VmrwV8C4k&ust=1693023721638000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPD22P369oADFQAAAAAdAAAAABAX"
       ],
-      "price":1000,
+      "price": 1000,
       "details": {
-        "type":28,
-        "metertail":4
+        "type": 28,
+        "metertail": 4
       },
       "pageId": 1,
       "condition": "1",
       "location": "phnom penh",
-      "categoryId":8
+      "categoryId": 8
     },
     {
       "id": "19",
       "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
       "description": "",
       "thumbnail": "https://i0.wp.com/imaginecare.co.ke/wp-content/uploads/2022/08/Office-Chair-Cleaning.jpg?fit=600%2C600&ssl=1",
-      "price":100,
+      "price": 100,
       "images": [
         "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
         "https://icon-library.com/images/placeholder-image-icon/placeholder-image-icon-5.jpg",
@@ -482,20 +480,20 @@
         "https://icon-library.com/images/placeholder-image-icon/placeholder-image-icon-5.jpg"
       ],
       "details": {
-        "type":28,
-        "metertail":4
+        "type": 28,
+        "metertail": 4
       },
       "pageId": 1,
       "condition": "1",
       "location": "phnom penh",
-      "categoryId":8
+      "categoryId": 8
     },
     {
       "id": "20",
       "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
       "description": "",
       "thumbnail": "https://www.ikea.com/us/en/images/products/hattefjaell-office-chair-with-armrests-smidig-black-black__1019087_pe831296_s5.jpg?f=s",
-      "price":200,
+      "price": 200,
       "images": [
         "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
         "https://icon-library.com/images/placeholder-image-icon/placeholder-image-icon-5.jpg",
@@ -503,13 +501,13 @@
         "https://icon-library.com/images/placeholder-image-icon/placeholder-image-icon-5.jpg"
       ],
       "details": {
-        "type":8,
-        "metertail":4
+        "type": 8,
+        "metertail": 4
       },
       "pageId": 1,
       "condition": "1",
       "location": "phnom penh",
-      "categoryId":8
+      "categoryId": 8
     },
     {
       "id": "21",
@@ -522,15 +520,15 @@
         "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
         "https://icon-library.com/images/placeholder-image-icon/placeholder-image-icon-5.jpg"
       ],
-      "price":1000,
+      "price": 1000,
       "details": {
-        "type":27,
-        "metertail":2
+        "type": 27,
+        "metertail": 2
       },
       "pageId": 1,
       "condition": "1",
       "location": "phnom penh",
-      "categoryId":8
+      "categoryId": 8
     },
     {
       "id": "22",
@@ -543,15 +541,15 @@
         "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
         "https://icon-library.com/images/placeholder-image-icon/placeholder-image-icon-5.jpg"
       ],
-      "price":500,
+      "price": 500,
       "details": {
-        "type":25,
-        "metertail":2
+        "type": 25,
+        "metertail": 2
       },
       "pageId": 1,
       "condition": "1",
       "location": "phnom penh",
-      "categoryId":8
+      "categoryId": 8
     },
     {
       "id": "23",
@@ -564,15 +562,15 @@
         "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
         "https://icon-library.com/images/placeholder-image-icon/placeholder-image-icon-5.jpg"
       ],
-      "price":1000,
+      "price": 1000,
       "details": {
-        "type":3,
-        "metertail":2
+        "type": 3,
+        "metertail": 2
       },
       "pageId": 1,
       "condition": "1",
       "location": "phnom penh",
-      "categoryId":8
+      "categoryId": 8
     },
     {
       "id": "24",
@@ -585,15 +583,15 @@
         "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
         "https://icon-library.com/images/placeholder-image-icon/placeholder-image-icon-5.jpg"
       ],
-      "price":2000,
+      "price": 2000,
       "details": {
-        "type":25,
-        "metertail":4
+        "type": 25,
+        "metertail": 4
       },
       "pageId": 1,
       "condition": "1",
       "location": "phnom penh",
-      "categoryId":8
+      "categoryId": 8
     },
     {
       "id": "25",
@@ -606,14 +604,14 @@
         "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
         "https://icon-library.com/images/placeholder-image-icon/placeholder-image-icon-5.jpg"
       ],
-      "price":700,
+      "price": 700,
       "details": {
-        "type":25,
-        "metertail":1
+        "type": 25,
+        "metertail": 1
       },
       "pageId": 1,
       "location": "phnom penh",
-      "categoryId":8
+      "categoryId": 8
     },
     {
       "id": "26",
@@ -626,14 +624,14 @@
         "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
         "https://icon-library.com/images/placeholder-image-icon/placeholder-image-icon-5.jpg"
       ],
-      "price":1500,
+      "price": 1500,
       "details": {
-        "type":26,
-        "metertail":1
+        "type": 26,
+        "metertail": 1
       },
       "pageId": 1,
       "location": "phnom penh",
-      "categoryId":8
+      "categoryId": 8
     },
     {
       "id": "27",
@@ -646,14 +644,14 @@
         "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
         "https://icon-library.com/images/placeholder-image-icon/placeholder-image-icon-5.jpg"
       ],
-      "price":400,
+      "price": 400,
       "details": {
-        "type":26,
-        "metertail":2
+        "type": 26,
+        "metertail": 2
       },
       "pageId": 1,
       "location": "phnom penh",
-      "categoryId":8
+      "categoryId": 8
     },
     {
       "id": "28",
@@ -666,15 +664,14 @@
         "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
         "https://icon-library.com/images/placeholder-image-icon/placeholder-image-icon-5.jpg"
       ],
-      "price":300,
+      "price": 300,
       "details": {
-        "type":25,
-        "metertail":4
-       
+        "type": 25,
+        "metertail": 4
       },
       "pageId": 1,
       "location": "phnom penh",
-      "categoryId":8
+      "categoryId": 8
     },
     {
       "id": "29",
@@ -687,13 +684,13 @@
         "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
         "https://icon-library.com/images/placeholder-image-icon/placeholder-image-icon-5.jpg"
       ],
-      "price":300,
+      "price": 300,
       "details": {
-        "type":31
+        "type": 31
       },
       "pageId": 1,
-      "location":1,
-      "categoryId":9
+      "location": 1,
+      "categoryId": 9
     },
     {
       "id": "30",
@@ -706,13 +703,13 @@
         "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
         "https://icon-library.com/images/placeholder-image-icon/placeholder-image-icon-5.jpg"
       ],
-      "price":300,
+      "price": 300,
       "details": {
-        "type":30
+        "type": 30
       },
       "pageId": 1,
-      "location":1,
-      "categoryId":9
+      "location": 1,
+      "categoryId": 9
     },
     {
       "id": "31",
@@ -725,13 +722,13 @@
         "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
         "https://icon-library.com/images/placeholder-image-icon/placeholder-image-icon-5.jpg"
       ],
-      "price":300,
+      "price": 300,
       "details": {
-        "type":32
+        "type": 32
       },
       "pageId": 1,
-      "location":1,
-      "categoryId":9
+      "location": 1,
+      "categoryId": 9
     },
     {
       "id": "32",
@@ -744,13 +741,13 @@
         "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
         "https://icon-library.com/images/placeholder-image-icon/placeholder-image-icon-5.jpg"
       ],
-      "price":300,
+      "price": 300,
       "details": {
-        "type":29
+        "type": 29
       },
       "pageId": 1,
-      "location":1,
-      "categoryId":9
+      "location": 1,
+      "categoryId": 9
     },
     {
       "id": "33",
@@ -763,13 +760,13 @@
         "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
         "https://icon-library.com/images/placeholder-image-icon/placeholder-image-icon-5.jpg"
       ],
-      "price":150,
+      "price": 150,
       "details": {
-        "type":29
+        "type": 29
       },
       "pageId": 1,
-      "location":1,
-      "categoryId":9
+      "location": 1,
+      "categoryId": 9
     },
     {
       "id": "34",
@@ -782,13 +779,13 @@
         "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
         "https://icon-library.com/images/placeholder-image-icon/placeholder-image-icon-5.jpg"
       ],
-      "price":350,
+      "price": 350,
       "details": {
-        "type":30
+        "type": 30
       },
       "pageId": 1,
-      "location":1,
-      "categoryId":9
+      "location": 1,
+      "categoryId": 9
     },
     {
       "id": "35",
@@ -801,13 +798,13 @@
         "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
         "https://icon-library.com/images/placeholder-image-icon/placeholder-image-icon-5.jpg"
       ],
-      "price":100,
+      "price": 100,
       "details": {
-        "type":30
+        "type": 30
       },
       "pageId": 1,
-      "location":1,
-      "categoryId":9
+      "location": 1,
+      "categoryId": 9
     },
     {
       "id": "36",
@@ -820,37 +817,18 @@
         "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
         "https://icon-library.com/images/placeholder-image-icon/placeholder-image-icon-5.jpg"
       ],
-      "price":300,
+      "price": 300,
       "details": {
-        "type":30
+        "type": 30
       },
       "pageId": 1,
-      "location":1,
-      "categoryId":9
+      "location": 1,
+      "categoryId": 9
     },
     {
-      "id":"37",
-      "title":"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-      "thumbnail":"https://cdn.britannica.com/79/232779-050-6B0411D7/German-Shepherd-dog-Alsatian.jpg",
-      "description": "",
-      "images": [
-        "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
-        "https://icon-library.com/images/placeholder-image-icon/placeholder-image-icon-5.jpg",
-        "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
-        "https://icon-library.com/images/placeholder-image-icon/placeholder-image-icon-5.jpg"
-      ],
-      "price":30,
-      "details": {
-        "type":30
-      },
-      "pageId": 1,
-      "location":1,
-      "categoryId":9
-    },
-    {
-      "id":"38",
+      "id": "37",
       "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-      "thumbnail":"https://m.media-amazon.com/images/I/51vOMolqGsL.jpg",
+      "thumbnail": "https://cdn.britannica.com/79/232779-050-6B0411D7/German-Shepherd-dog-Alsatian.jpg",
       "description": "",
       "images": [
         "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
@@ -858,18 +836,18 @@
         "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
         "https://icon-library.com/images/placeholder-image-icon/placeholder-image-icon-5.jpg"
       ],
-      "price":30,
+      "price": 30,
       "details": {
-        "type":30
+        "type": 30
       },
       "pageId": 1,
-      "location":1,
-      "categoryId":10
+      "location": 1,
+      "categoryId": 9
     },
     {
-      "id":"39",
+      "id": "38",
       "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-      "thumbnail":"https://m.media-amazon.com/images/I/71E+fOTtv5L.jpg",
+      "thumbnail": "https://m.media-amazon.com/images/I/51vOMolqGsL.jpg",
       "description": "",
       "images": [
         "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
@@ -877,18 +855,18 @@
         "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
         "https://icon-library.com/images/placeholder-image-icon/placeholder-image-icon-5.jpg"
       ],
-      "price":30,
+      "price": 30,
       "details": {
-        "type":30
+        "type": 30
       },
       "pageId": 1,
-      "location":1,
-      "categoryId":10
+      "location": 1,
+      "categoryId": 10
     },
     {
-      "id":"40",
+      "id": "39",
       "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-      "thumbnail":"https://shop.crayola.com/dw/image/v2/AALB_PRD/on/demandware.static/-/Sites-crayola-storefront/default/dw62ac47d8/images/52-3008_8ct_Crayons_PDP_MAIN.jpg?sw=357&sh=323&sm=fit&sfrm=jpg",
+      "thumbnail": "https://m.media-amazon.com/images/I/71E+fOTtv5L.jpg",
       "description": "",
       "images": [
         "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
@@ -896,18 +874,18 @@
         "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
         "https://icon-library.com/images/placeholder-image-icon/placeholder-image-icon-5.jpg"
       ],
-      "price":30,
+      "price": 30,
       "details": {
-        "type":30
+        "type": 30
       },
       "pageId": 1,
-      "location":1,
-      "categoryId":10
+      "location": 1,
+      "categoryId": 10
     },
     {
-      "id":"41",
+      "id": "40",
       "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-      "thumbnail":"https://products.mpowerpromo.com/HIT/11161/11161NAT/1200_1200/11161_NAT_Blank.jpg",
+      "thumbnail": "https://shop.crayola.com/dw/image/v2/AALB_PRD/on/demandware.static/-/Sites-crayola-storefront/default/dw62ac47d8/images/52-3008_8ct_Crayons_PDP_MAIN.jpg?sw=357&sh=323&sm=fit&sfrm=jpg",
       "description": "",
       "images": [
         "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
@@ -915,18 +893,18 @@
         "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
         "https://icon-library.com/images/placeholder-image-icon/placeholder-image-icon-5.jpg"
       ],
-      "price":30,
+      "price": 30,
       "details": {
-        "type":30
+        "type": 30
       },
       "pageId": 1,
-      "location":1,
-      "categoryId":10
+      "location": 1,
+      "categoryId": 10
     },
     {
-      "id":"42",
+      "id": "41",
       "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-      "thumbnail":"https://kwtrade.pl/files/2019/10/160-1783_1.jpg",
+      "thumbnail": "https://products.mpowerpromo.com/HIT/11161/11161NAT/1200_1200/11161_NAT_Blank.jpg",
       "description": "",
       "images": [
         "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
@@ -934,18 +912,18 @@
         "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
         "https://icon-library.com/images/placeholder-image-icon/placeholder-image-icon-5.jpg"
       ],
-      "price":30,
+      "price": 30,
       "details": {
-        "type":30
+        "type": 30
       },
       "pageId": 1,
-      "location":1,
-      "categoryId":10
+      "location": 1,
+      "categoryId": 10
     },
     {
-      "id":"43",
+      "id": "42",
       "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-      "thumbnail":"https://m.media-amazon.com/images/I/41Mjb-Kz06L.jpg",
+      "thumbnail": "https://kwtrade.pl/files/2019/10/160-1783_1.jpg",
       "description": "",
       "images": [
         "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
@@ -953,18 +931,18 @@
         "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
         "https://icon-library.com/images/placeholder-image-icon/placeholder-image-icon-5.jpg"
       ],
-      "price":30,
+      "price": 30,
       "details": {
-        "type":30
+        "type": 30
       },
       "pageId": 1,
-      "location":1,
-      "categoryId":10
+      "location": 1,
+      "categoryId": 10
     },
     {
-      "id":"44",
+      "id": "43",
       "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-      "thumbnail":"https://www.learnkhmer.online/img/readings/book-grade-1.jpg",
+      "thumbnail": "https://m.media-amazon.com/images/I/41Mjb-Kz06L.jpg",
       "description": "",
       "images": [
         "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
@@ -972,18 +950,18 @@
         "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
         "https://icon-library.com/images/placeholder-image-icon/placeholder-image-icon-5.jpg"
       ],
-      "price":30,
+      "price": 30,
       "details": {
-        "type":30
+        "type": 30
       },
       "pageId": 1,
-      "location":1,
-      "categoryId":10
+      "location": 1,
+      "categoryId": 10
     },
     {
-      "id":"45",
+      "id": "44",
       "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-      "thumbnail":"https://3.bp.blogspot.com/-kNpGgGr26mc/V8FT4zRGiiI/AAAAAAAAFH8/9rlpDw4bkeAk0luQrQo-_06eMuIHNCxqACLcB/s400/13654125_1764464770505399_5086187093763557620_n.jpg",
+      "thumbnail": "https://www.learnkhmer.online/img/readings/book-grade-1.jpg",
       "description": "",
       "images": [
         "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
@@ -991,18 +969,18 @@
         "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
         "https://icon-library.com/images/placeholder-image-icon/placeholder-image-icon-5.jpg"
       ],
-      "price":30,
+      "price": 30,
       "details": {
-        "type":30
+        "type": 30
       },
       "pageId": 1,
-      "location":1,
-      "categoryId":10
+      "location": 1,
+      "categoryId": 10
     },
     {
-      "id":"46",
+      "id": "45",
       "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-      "thumbnail":"https://www.ncertbooks.guru/wp-content/uploads/2022/05/Course-details.png",
+      "thumbnail": "https://3.bp.blogspot.com/-kNpGgGr26mc/V8FT4zRGiiI/AAAAAAAAFH8/9rlpDw4bkeAk0luQrQo-_06eMuIHNCxqACLcB/s400/13654125_1764464770505399_5086187093763557620_n.jpg",
       "description": "",
       "images": [
         "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
@@ -1010,18 +988,18 @@
         "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
         "https://icon-library.com/images/placeholder-image-icon/placeholder-image-icon-5.jpg"
       ],
-      "price":30,
+      "price": 30,
       "details": {
-        "type":30
+        "type": 30
       },
       "pageId": 1,
-      "location":1,
-      "categoryId":10
+      "location": 1,
+      "categoryId": 10
     },
     {
-      "id":"47",
+      "id": "46",
       "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-      "thumbnail":"https://elearningindustry.com/wp-content/uploads/2015/10/6-convincing-reasons-take-elearning-course.jpg",
+      "thumbnail": "https://www.ncertbooks.guru/wp-content/uploads/2022/05/Course-details.png",
       "description": "",
       "images": [
         "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
@@ -1029,18 +1007,18 @@
         "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
         "https://icon-library.com/images/placeholder-image-icon/placeholder-image-icon-5.jpg"
       ],
-      "price":30,
+      "price": 30,
       "details": {
-        "type":30
+        "type": 30
       },
       "pageId": 1,
-      "location":1,
-      "categoryId":10
+      "location": 1,
+      "categoryId": 10
     },
     {
-      "id":"48",
+      "id": "47",
       "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-      "thumbnail":"https://img.freepik.com/free-vector/set-two-pencils-isolated_1308-114555.jpg?w=2000",
+      "thumbnail": "https://elearningindustry.com/wp-content/uploads/2015/10/6-convincing-reasons-take-elearning-course.jpg",
       "description": "",
       "images": [
         "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
@@ -1048,18 +1026,18 @@
         "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
         "https://icon-library.com/images/placeholder-image-icon/placeholder-image-icon-5.jpg"
       ],
-      "price":30,
+      "price": 30,
       "details": {
-        "type":30
+        "type": 30
       },
       "pageId": 1,
-      "location":1,
-      "categoryId":10
+      "location": 1,
+      "categoryId": 10
     },
     {
-      "id":"49",
+      "id": "48",
       "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-      "thumbnail":"https://www.ikea.com/in/en/images/products/jaettelik-soft-toy-dinosaur-dinosaur-brontosaurus__0804796_pe769337_s5.jpg?f=s",
+      "thumbnail": "https://img.freepik.com/free-vector/set-two-pencils-isolated_1308-114555.jpg?w=2000",
       "description": "",
       "images": [
         "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
@@ -1067,18 +1045,18 @@
         "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
         "https://icon-library.com/images/placeholder-image-icon/placeholder-image-icon-5.jpg"
       ],
-      "price":30,
+      "price": 30,
       "details": {
-        "type":30
+        "type": 30
       },
       "pageId": 1,
-      "location":1,
-      "categoryId":11
+      "location": 1,
+      "categoryId": 10
     },
     {
-      "id":"50",
+      "id": "49",
       "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-      "thumbnail":"https://m.media-amazon.com/images/I/61Y0XPjzM-L._AC_UF1000,1000_QL80_.jpg",
+      "thumbnail": "https://www.ikea.com/in/en/images/products/jaettelik-soft-toy-dinosaur-dinosaur-brontosaurus__0804796_pe769337_s5.jpg?f=s",
       "description": "",
       "images": [
         "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
@@ -1086,18 +1064,18 @@
         "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
         "https://icon-library.com/images/placeholder-image-icon/placeholder-image-icon-5.jpg"
       ],
-      "price":30,
+      "price": 30,
       "details": {
-        "type":30
+        "type": 30
       },
       "pageId": 1,
-      "location":1,
-      "categoryId":11
+      "location": 1,
+      "categoryId": 11
     },
     {
-      "id":"51",
+      "id": "50",
       "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-      "thumbnail":"https://i.ytimg.com/vi/NtzftGb0EcM/maxresdefault.jpg",
+      "thumbnail": "https://m.media-amazon.com/images/I/61Y0XPjzM-L._AC_UF1000,1000_QL80_.jpg",
       "description": "",
       "images": [
         "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
@@ -1105,18 +1083,18 @@
         "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
         "https://icon-library.com/images/placeholder-image-icon/placeholder-image-icon-5.jpg"
       ],
-      "price":30,
+      "price": 30,
       "details": {
-        "type":30
+        "type": 30
       },
       "pageId": 1,
-      "location":1,
-      "categoryId":11
+      "location": 1,
+      "categoryId": 11
     },
     {
-      "id":"52",
+      "id": "51",
       "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-      "thumbnail":"https://www.ikea.com/au/en/images/products/blavingad-soft-toy-blue-whale__1107939_pe869237_s5.jpg?f=s",
+      "thumbnail": "https://i.ytimg.com/vi/NtzftGb0EcM/maxresdefault.jpg",
       "description": "",
       "images": [
         "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
@@ -1124,18 +1102,18 @@
         "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
         "https://icon-library.com/images/placeholder-image-icon/placeholder-image-icon-5.jpg"
       ],
-      "price":30,
+      "price": 30,
       "details": {
-        "type":30
+        "type": 30
       },
       "pageId": 1,
-      "location":1,
-      "categoryId":11
+      "location": 1,
+      "categoryId": 11
     },
     {
-      "id":"53",
+      "id": "52",
       "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-      "thumbnail":"https://5.imimg.com/data5/VJ/GP/WF/SELLER-7577666/-puzzle-toys-500x500.jpg",
+      "thumbnail": "https://www.ikea.com/au/en/images/products/blavingad-soft-toy-blue-whale__1107939_pe869237_s5.jpg?f=s",
       "description": "",
       "images": [
         "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
@@ -1143,18 +1121,18 @@
         "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
         "https://icon-library.com/images/placeholder-image-icon/placeholder-image-icon-5.jpg"
       ],
-      "price":30,
+      "price": 30,
       "details": {
-        "type":30
+        "type": 30
       },
       "pageId": 1,
-      "location":1,
-      "categoryId":11
+      "location": 1,
+      "categoryId": 11
     },
     {
-      "id":"54",
+      "id": "53",
       "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-      "thumbnail":"https://www.jaqueslondon.co.uk/cdn/shop/products/LetsPlayAnimalPuzzles-SetOf3-89442.jpg?v=1630404669",
+      "thumbnail": "https://5.imimg.com/data5/VJ/GP/WF/SELLER-7577666/-puzzle-toys-500x500.jpg",
       "description": "",
       "images": [
         "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
@@ -1162,18 +1140,18 @@
         "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
         "https://icon-library.com/images/placeholder-image-icon/placeholder-image-icon-5.jpg"
       ],
-      "price":30,
+      "price": 30,
       "details": {
-        "type":30
+        "type": 30
       },
       "pageId": 1,
-      "location":1,
-      "categoryId":11
+      "location": 1,
+      "categoryId": 11
     },
     {
-      "id":55,
+      "id": "54",
       "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-      "thumbnail":"https://target.scene7.com/is/image/Target/GUEST_cc7c28eb-740c-4853-81a2-cfc997d7fd95?wid=488&hei=488&fmt=pjpeg",
+      "thumbnail": "https://www.jaqueslondon.co.uk/cdn/shop/products/LetsPlayAnimalPuzzles-SetOf3-89442.jpg?v=1630404669",
       "description": "",
       "images": [
         "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
@@ -1181,150 +1159,166 @@
         "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
         "https://icon-library.com/images/placeholder-image-icon/placeholder-image-icon-5.jpg"
       ],
-      "price":30,
+      "price": 30,
       "details": {
-        "type":30
+        "type": 30
       },
       "pageId": 1,
-      "location":1,
-      "categoryId":11
+      "location": 1,
+      "categoryId": 11
     },
     {
-      "id":56,
-      "title":"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-      "thumbnail":"https://www.redefinemeat.com/wp-content/uploads/2022/04/BLOG1.jpg",
-      "description":"",
+      "id": 55,
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "thumbnail": "https://target.scene7.com/is/image/Target/GUEST_cc7c28eb-740c-4853-81a2-cfc997d7fd95?wid=488&hei=488&fmt=pjpeg",
+      "description": "",
       "images": [
         "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
         "https://icon-library.com/images/placeholder-image-icon/placeholder-image-icon-5.jpg",
         "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
         "https://icon-library.com/images/placeholder-image-icon/placeholder-image-icon-5.jpg"
       ],
-      "price":30,
+      "price": 30,
       "details": {
-        "type":30
+        "type": 30
       },
       "pageId": 1,
-      "location":1,
-      "categoryId":12
+      "location": 1,
+      "categoryId": 11
     },
     {
-      "id":57,
-      "title":"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-      "thumbnail":"https://www.pharmamirror.com/wp-content/uploads/2013/06/Banna-as-Hepatitis-Oral-Vaccine.jpg",
-      "description":"",
+      "id": 56,
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "thumbnail": "https://www.redefinemeat.com/wp-content/uploads/2022/04/BLOG1.jpg",
+      "description": "",
       "images": [
         "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
         "https://icon-library.com/images/placeholder-image-icon/placeholder-image-icon-5.jpg",
         "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
         "https://icon-library.com/images/placeholder-image-icon/placeholder-image-icon-5.jpg"
       ],
-      "price":30,
+      "price": 30,
       "details": {
-        "type":30
+        "type": 30
       },
       "pageId": 1,
-      "location":1,
-      "categoryId":12
+      "location": 1,
+      "categoryId": 12
     },
     {
-      "id":58,
-      "title":"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-      "thumbnail":"https://5.imimg.com/data5/SELLER/Default/2022/2/SO/CH/FV/83398376/purple-seedless-grapes-250x250.jpeg",
-      "description":"",
+      "id": 57,
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "thumbnail": "https://www.pharmamirror.com/wp-content/uploads/2013/06/Banna-as-Hepatitis-Oral-Vaccine.jpg",
+      "description": "",
       "images": [
         "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
         "https://icon-library.com/images/placeholder-image-icon/placeholder-image-icon-5.jpg",
         "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
         "https://icon-library.com/images/placeholder-image-icon/placeholder-image-icon-5.jpg"
       ],
-      "price":30,
+      "price": 30,
       "details": {
-        "type":30
+        "type": 30
       },
       "pageId": 1,
-      "location":1,
-      "categoryId":12
+      "location": 1,
+      "categoryId": 12
     },
     {
-      "id":59,
-      "title":"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-      "thumbnail":"https://www.honestfoodtalks.com/wp-content/uploads/2020/11/Seafood-platter-500x375.jpg",
-      "description":"",
+      "id": 58,
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "thumbnail": "https://5.imimg.com/data5/SELLER/Default/2022/2/SO/CH/FV/83398376/purple-seedless-grapes-250x250.jpeg",
+      "description": "",
       "images": [
         "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
         "https://icon-library.com/images/placeholder-image-icon/placeholder-image-icon-5.jpg",
         "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
         "https://icon-library.com/images/placeholder-image-icon/placeholder-image-icon-5.jpg"
       ],
-      "price":30,
+      "price": 30,
       "details": {
-        "type":30
+        "type": 30
       },
       "pageId": 1,
-      "location":1,
-      "categoryId":12
+      "location": 1,
+      "categoryId": 12
     },
     {
-      "id":60,
-      "title":"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-      "thumbnail":"https://www.englishclub.com/images/vocabulary/food/fish-seafood/fish-seafood.jpg",
-      "description":"",
+      "id": 59,
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "thumbnail": "https://www.honestfoodtalks.com/wp-content/uploads/2020/11/Seafood-platter-500x375.jpg",
+      "description": "",
       "images": [
         "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
         "https://icon-library.com/images/placeholder-image-icon/placeholder-image-icon-5.jpg",
         "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
         "https://icon-library.com/images/placeholder-image-icon/placeholder-image-icon-5.jpg"
       ],
-      "price":30,
+      "price": 30,
       "details": {
-        "type":30
+        "type": 30
       },
       "pageId": 1,
-      "location":1,
-      "categoryId":12
+      "location": 1,
+      "categoryId": 12
     },
     {
-      "id":61,
-      "title":"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-      "thumbnail":"https://www.monde-selection.com/wp-content/uploads/2021/05/1030927.png",
-      "description":"",
+      "id": 60,
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "thumbnail": "https://www.englishclub.com/images/vocabulary/food/fish-seafood/fish-seafood.jpg",
+      "description": "",
       "images": [
         "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
         "https://icon-library.com/images/placeholder-image-icon/placeholder-image-icon-5.jpg",
         "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
         "https://icon-library.com/images/placeholder-image-icon/placeholder-image-icon-5.jpg"
       ],
-      "price":30,
+      "price": 30,
       "details": {
-        "type":30
+        "type": 30
       },
       "pageId": 1,
-      "location":1,
-      "categoryId":12
+      "location": 1,
+      "categoryId": 12
     },
     {
-      "id":62,
-      "title":"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-      "thumbnail":"https://media.danmurphys.com.au/dmo/product/357480-1.png",
-      "description":"",
+      "id": 61,
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "thumbnail": "https://www.monde-selection.com/wp-content/uploads/2021/05/1030927.png",
+      "description": "",
       "images": [
         "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
         "https://icon-library.com/images/placeholder-image-icon/placeholder-image-icon-5.jpg",
         "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
         "https://icon-library.com/images/placeholder-image-icon/placeholder-image-icon-5.jpg"
       ],
-      "price":30,
+      "price": 30,
       "details": {
-        "type":30
+        "type": 30
       },
       "pageId": 1,
-      "location":1,
-      "categoryId":12
+      "location": 1,
+      "categoryId": 12
+    },
+    {
+      "id": 62,
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "thumbnail": "https://media.danmurphys.com.au/dmo/product/357480-1.png",
+      "description": "",
+      "images": [
+        "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
+        "https://icon-library.com/images/placeholder-image-icon/placeholder-image-icon-5.jpg",
+        "https://craftsnippets.com/articles_images/placeholder/placeholder.jpg",
+        "https://icon-library.com/images/placeholder-image-icon/placeholder-image-icon-5.jpg"
+      ],
+      "price": 30,
+      "details": {
+        "type": 30
+      },
+      "pageId": 1,
+      "location": 1,
+      "categoryId": 12
     }
-
-
-
   ],
   "categories": [
     {
@@ -1400,7 +1394,6 @@
       "image": "/menu-images/food.png"
     }
   ],
-
   "sub-categories": [
     {
       "id": "1",
@@ -1476,84 +1469,109 @@
     },
     {
       "id": "13",
-      "categoryId": 6,
+      "categoryId": 4,
       "name": "accessories",
       "value": "accessories"
-    }
-    
-  ],
-
-  "accesseries" : [
+    },
     {
-      "id":1,
-      "categoryId" :4,
+      "id": "14",
+      "categoryId": 6,
+      "thumbnail" : "./public/menu-images/art.png",
+      "name": "art",
+      "value": "art"
+    },
+    {
+      "id": "15",
+      "categoryId": 6,
+      "thumbnail" : "./public/menu-images/egineer.png",
+      "name": "eginner",
+      "value": "eginner"
+    },
+    {
+      "id": "16",
+      "categoryId": 6,
+      "thumbnail" : "./public/menu-images/finance.png",
+      "name":"finance",
+      "value": "finance"
+    },
+    {
+      "id": "17",
+      "categoryId": 6,
+      "thumbnail" : "./public/menu-images/technology.png",
+      "name":"technology",
+      "value": "technology"
+    }
+  ],
+  "accesseries": [
+    {
+      "id": 1,
+      "categoryId": 4,
       "name": "mouse",
       "value": "mouse"
     },
     {
-      "id":2,
-      "categoryId":4,
-      "name":"ram",
+      "id": 2,
+      "categoryId": 4,
+      "name": "ram",
       "value": "ram"
     },
     {
-      "id":3,
-      "categoryId":4,
-      "name":"cpu",
-      "value":"cpu"
+      "id": 3,
+      "categoryId": 4,
+      "name": "cpu",
+      "value": "cpu"
     },
     {
-      "id":4,
-      "categoryId":4,
-      "name":"keyboard",
-      "value":"keyboard"
+      "id": 4,
+      "categoryId": 4,
+      "name": "keyboard",
+      "value": "keyboard"
     },
     {
-      "id":5,
-      "categoryId":4,
-      "name":"mousepad",
-      "value":"mousepad"
+      "id": 5,
+      "categoryId": 4,
+      "name": "mousepad",
+      "value": "mousepad"
     },
     {
-      "id":6,
-      "categoryId":4,
-      "name":"monitor",
-      "value":"monitor"
+      "id": 6,
+      "categoryId": 4,
+      "name": "monitor",
+      "value": "monitor"
     },
     {
-      "id":7,
-      "categoryId":4,
-      "name":"charging cable",
-      "value":"charging-cable"
+      "id": 7,
+      "categoryId": 4,
+      "name": "charging cable",
+      "value": "charging-cable"
     },
     {
-      "id":8,
-      "categoryId":3,
-      "name":"screen",
-      "value":"sreen"
+      "id": 8,
+      "categoryId": 3,
+      "name": "screen",
+      "value": "sreen"
     },
     {
-      "id":9,
-      "name":"ear headphone",
-      "value":"ear-headphone"
+      "id": 9,
+      "name": "ear headphone",
+      "value": "ear-headphone"
     },
     {
-      "id":10,
-      "name":"battery",
-      "value":"battery"
+      "id": 10,
+      "name": "battery",
+      "value": "battery"
     },
     {
-      "id":11,
-      "name":"selfie sticks",
-      "value":"selfie-sticks"
+      "id": 11,
+      "name": "selfie sticks",
+      "value": "selfie-sticks"
     },
     {
-      "id":12,
-      "name":"cases&covers",
-      "value":"cases-covers"
+      "id": 12,
+      "name": "cases&covers",
+      "value": "cases-covers"
     }
   ],
-
   "locations": [
     {
       "id": 1,
@@ -1756,238 +1774,235 @@
     },
     {
       "id": 13,
-      "categoryId":6,
+      "categoryId": 6,
       "name": "account/finance",
       "value": "account-finance",
       "image": "./menu-images/finance.png"
     },
     {
       "id": 14,
-      "categoryId":6,
+      "categoryId": 6,
       "name": "education/infomation",
       "value": "education-infomation",
       "image": "./menu-images/education.png"
     },
     {
       "id": 15,
-      "categoryId":6,
+      "categoryId": 6,
       "name": "engineering/architecture",
       "value": "engineering-architecture",
       "image": "./menu-images/egineer.png"
     },
     {
       "id": 16,
-      "categoryId":6,
+      "categoryId": 6,
       "name": "production",
       "value": "production",
       "image": "./menu-images/production.png"
     },
     {
       "id": 17,
-      "categoryId":6,
+      "categoryId": 6,
       "name": "hr/development",
       "value": "hr-development",
       "image": "./menu-images/Hr.png"
     },
     {
       "id": 18,
-      "categoryId":6,
+      "categoryId": 6,
       "name": "design/creative",
       "value": "design-creative",
       "image": "./menu-images/design.png"
     },
     {
       "id": 19,
-      "categoryId":6,
+      "categoryId": 6,
       "name": "technology",
       "value": "technology",
       "image": "./menu-images/technology.png"
     },
     {
       "id": 20,
-      "categoryId":6,
+      "categoryId": 6,
       "name": "medicin",
       "value": "medicin",
       "image": "./menu-images/medicin.png"
     },
     {
       "id": 21,
-      "categoryId":6,
+      "categoryId": 6,
       "name": "art/culture",
       "value": "art-culture",
       "image": "./menu-images/art.png"
     },
     {
       "id": 22,
-      "categoryId":6,
+      "categoryId": 6,
       "name": "marketing/advertising",
       "value": "marketing-advertising",
       "image": "./menu-images/marketing.png"
     },
     {
       "id": 23,
-      "categoryId":6,
+      "categoryId": 6,
       "name": "legal",
       "value": "legal",
       "image": "./menu-images/legal.png"
     },
     {
       "id": 24,
-      "categoryId":6,
+      "categoryId": 6,
       "name": "frelance/dilevers",
       "value": "frelance-dilevers",
       "image": "./menu-images/frelance.png"
     },
     {
-      "id":25,
-      "categoryId":8,
+      "id": 25,
+      "categoryId": 8,
       "name": "sofa set",
       "value": "sofa-set"
     },
     {
       "id": 26,
-      "categoryId":8,
+      "categoryId": 8,
       "name": "bed set",
       "value": "bed-set"
     },
     {
-      "id":27,
-      "categoryId":8,
+      "id": 27,
+      "categoryId": 8,
       "name": "dining table",
       "value": "dining-table"
     },
     {
-      "id":28,
-      "categoryId":8,
+      "id": 28,
+      "categoryId": 8,
       "name": "office chair",
       "value": "office-chair"
     },
     {
       "id": 29,
-      "categoryId":9,
+      "categoryId": 9,
       "name": "bird",
       "value": "bird"
     },
     {
-      "id":30,
+      "id": 30,
       "categoryId": 9,
       "name": "cat",
       "value": "cat"
     },
     {
       "id": 31,
-      "categoryId":9,
+      "categoryId": 9,
       "name": "dog",
       "value": "dog"
     },
     {
-      "id":32,
-      "categoryId":9,
+      "id": 32,
+      "categoryId": 9,
       "name": "other",
       "value": "other"
     },
     {
       "id": 33,
-      "categoryId":10,
+      "categoryId": 10,
       "name": "book",
       "value": "book"
     },
     {
       "id": 34,
-      "categoryId":10,
+      "categoryId": 10,
       "name": "individual learn",
       "value": "individual-learn"
     },
     {
       "id": 35,
-      "categoryId":10,
+      "categoryId": 10,
       "name": "accessories",
       "value": "accessories"
     },
-    
     {
-      "id":36,
-      "categoryId":11,
+      "id": 36,
+      "categoryId": 11,
       "name": "toy&vechicles",
       "value": "toy-vachicles"
     },
     {
-      "id":37,
-      "categoryId":11,
+      "id": 37,
+      "categoryId": 11,
       "name": "games&puzzles",
       "value": "games-puzzles"
     },
     {
       "id": 38,
-      "categoryId":11,
+      "categoryId": 11,
       "name": "dolls",
       "value": "dolls"
     },
     {
-      "id":39,
-      "categoryId":12,
-      "name":"meat",
-      "value":"meat"
+      "id": 39,
+      "categoryId": 12,
+      "name": "meat",
+      "value": "meat"
     },
     {
-      "id":40,
-      "categoryId":12,
-      "name":"seafood",
-      "value":"seafood"
+      "id": 40,
+      "categoryId": 12,
+      "name": "seafood",
+      "value": "seafood"
     },
     {
-      "id":41,
-      "categoryId":12,
-      "name":"fruits"
+      "id": 41,
+      "categoryId": 12,
+      "name": "fruits"
     },
     {
-      "id":42,
-      "categoryId":12,
-      "name":"vegetables",
-      "value":"vegetables"
+      "id": 42,
+      "categoryId": 12,
+      "name": "vegetables",
+      "value": "vegetables"
     },
     {
-      "id":43,
-      "categoryId":12,
-      "name":"beverages",
-      "value":"beverages"
+      "id": 43,
+      "categoryId": 12,
+      "name": "beverages",
+      "value": "beverages"
     },
     {
-      "id":44,
-      "categoryId":12,
-      "name":"drink",
-      "value":"drink"
+      "id": 44,
+      "categoryId": 12,
+      "name": "drink",
+      "value": "drink"
     }
   ],
-
-  "meterail" : [
+  "meterail": [
     {
       "id": 1,
-      "categoryId":8,
-      "name":"metal",
-      "value":"metal"
+      "categoryId": 8,
+      "name": "metal",
+      "value": "metal"
     },
     {
       "id": 2,
-      "categoryId":8,
-      "name":"solid wood",
-      "value":"solid-wood"
+      "categoryId": 8,
+      "name": "solid wood",
+      "value": "solid-wood"
     },
     {
       "id": 3,
-      "categoryId":8,
-      "name":"glass",
-      "value":"glass"
+      "categoryId": 8,
+      "name": "glass",
+      "value": "glass"
     },
     {
-      "id":4,
-      "categoryId":8,
-      "name":"other",
-      "value":"other"
+      "id": 4,
+      "categoryId": 8,
+      "name": "other",
+      "value": "other"
     }
   ],
-
-  "conditions":[
+  "conditions": [
     {
       "id": 1,
       "categoryId": 4,
@@ -2013,7 +2028,6 @@
       "value": "used"
     }
   ],
-
   "price": [
     {
       "id": 1,
@@ -2304,7 +2318,6 @@
       "min": 0
     }
   ],
-
   "brands": [
     {
       "id": 1,
@@ -2336,31 +2349,30 @@
       "value": "lenovo"
     },
     {
-      "id":6,
-      "categoryId":5,
+      "id": 6,
+      "categoryId": 5,
       "name": "adidas",
       "value": "adidas"
     },
     {
-      "id":7,
-      "categoryId":5,
+      "id": 7,
+      "categoryId": 5,
       "name": "nike",
       "value": "nike"
     },
     {
-      "id":8,
-      "categoryId":5,
+      "id": 8,
+      "categoryId": 5,
       "name": "lv",
       "value": "lv"
     },
     {
-      "id":9,
-      "categoryId":5,
+      "id": 9,
+      "categoryId": 5,
       "name": "lavies",
       "value": "lavies"
     }
   ],
-
   "screens": [
     {
       "id": 1,
@@ -2399,7 +2411,6 @@
       "min": 0
     }
   ],
-
   "rams": [
     {
       "id": 1,
@@ -2426,7 +2437,6 @@
       "value": 2
     }
   ],
-
   "memories": [
     {
       "id": 1,
@@ -2459,55 +2469,52 @@
       "value": 32
     }
   ],
-
-  "for":[
+  "for": [
     {
       "id": 1,
-      "categoryId":5,
+      "categoryId": 5,
       "name": "men",
-      "value":"men"
+      "value": "men"
     },
     {
       "id": 2,
-      "categoryId":5,
+      "categoryId": 5,
       "name": "women",
-      "value":"women"
+      "value": "women"
     }
   ],
-
   "size": [
     {
       "id": 1,
-      "categoryId":5,
+      "categoryId": 5,
       "name": "xxl",
-      "value":"xxl"
+      "value": "xxl"
     },
     {
       "id": 2,
-      "categoryId":5,
+      "categoryId": 5,
       "name": "xl",
       "value": "xl"
     },
     {
       "id": 3,
-      "categoryId":5,
+      "categoryId": 5,
       "name": "l",
       "value": "l"
     },
     {
       "id": 4,
-      "categoryId":5,
+      "categoryId": 5,
       "name": "m",
       "value": "m"
     },
     {
       "id": 5,
-      "categoryId":5,
+      "categoryId": 5,
       "name": "s",
       "value": "s"
     }
   ],
-
   "best_way": [
     {
       "id": "1",
@@ -2526,7 +2533,6 @@
       "name": "internship"
     }
   ],
-
   "jobs": [
     {
       "id": "1",
@@ -2628,9 +2634,7 @@
       "category": "jobs",
       "createdAt": "10-11-2023"
     }
-
   ],
-
   "schoolarships": [
     {
       "id": "1",
@@ -2712,7 +2716,6 @@
       "category": "schollarship"
     }
   ],
-
   "pages": [
     {
       "id": 1,
@@ -2729,7 +2732,10 @@
       "address": "#3, St 259, Sangkat Teok Laak1, Khan Toul Kork, Phnom Penh, Cambodia",
       "email": "email@example.com",
       "phone": "0102345678",
-      "communicationPageIds": [2, 4],
+      "communicationPageIds": [
+        2,
+        4
+      ],
       "createdAt": "2023-07-18"
     },
     {
@@ -2748,7 +2754,11 @@
       "address": "#3, St 259, Sangkat Teok Laak1, Khan Toul Kork, Phnom Penh, Cambodia",
       "email": "email@example.com",
       "phone": "0102345678",
-      "communicationPageIds": [1, 3, 7],
+      "communicationPageIds": [
+        1,
+        3,
+        7
+      ],
       "createdAt": "2023-07-18"
     },
     {
@@ -2767,7 +2777,9 @@
       "address": "#3, St 259, Sangkat Teok Laak1, Khan Toul Kork, Phnom Penh, Cambodia",
       "email": "email@example.com",
       "phone": "0102345678",
-      "communicationPageIds": [3],
+      "communicationPageIds": [
+        3
+      ],
       "createdAt": "2023-07-18"
     },
     {
@@ -2786,7 +2798,10 @@
       "address": "#3, St 259, Sangkat Teok Laak1, Khan Toul Kork, Phnom Penh, Cambodia",
       "email": "email@example.com",
       "phone": "0102345678",
-      "communicationPageIds": [2, 7],
+      "communicationPageIds": [
+        2,
+        7
+      ],
       "createdAt": "2023-07-18"
     },
     {
@@ -2805,7 +2820,9 @@
       "address": "#3, St 259, Sangkat Teok Laak1, Khan Toul Kork, Phnom Penh, Cambodia",
       "email": "email@example.com",
       "phone": "0102345678",
-      "communicationPageIds": [6],
+      "communicationPageIds": [
+        6
+      ],
       "createdAt": "2023-07-18"
     },
     {
@@ -2824,7 +2841,9 @@
       "address": "#3, St 259, Sangkat Teok Laak1, Khan Toul Kork, Phnom Penh, Cambodia",
       "email": "email@example.com",
       "phone": "0102345678",
-      "communicationPageIds": [1],
+      "communicationPageIds": [
+        1
+      ],
       "createdAt": "2023-07-18"
     },
     {
@@ -2843,14 +2862,32 @@
       "address": "#3, St 259, Sangkat Teok Laak1, Khan Toul Kork, Phnom Penh, Cambodia",
       "email": "email@example.com",
       "phone": "0102345678",
-      "communicationPageIds": [5],
+      "communicationPageIds": [
+        5
+      ],
       "createdAt": "2023-07-18"
     }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "email": "seyha@gmail.com",
+      "password": "123"
+    },
+    {
+      "email": "adfafd",
+      "password": "adfaff",
+      "id": 2
+    },
+    {
+      "email": "adfafd@gmail.com",
+      "password": "adfaff",
+      "id": 3
+    },
+    {
+      "email": "seyha@gmail.com",
+      "password": "hello",
+      "id": 4
+    }
   ]
-
-  
-  
-  
-
-
 }
