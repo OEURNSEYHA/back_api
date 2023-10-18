@@ -1476,28 +1476,28 @@
     {
       "id": "14",
       "categoryId": 6,
-      "thumbnail" : "./public/menu-images/art.png",
+      "thumbnail" : "/menu-images/art.png",
       "name": "art",
       "value": "art"
     },
     {
       "id": "15",
       "categoryId": 6,
-      "thumbnail" : "./public/menu-images/egineer.png",
+      "thumbnail" : "/menu-images/egineer.png",
       "name": "eginner",
       "value": "eginner"
     },
     {
       "id": "16",
       "categoryId": 6,
-      "thumbnail" : "./public/menu-images/finance.png",
+      "thumbnail" : "/menu-images/finance.png",
       "name":"finance",
       "value": "finance"
     },
     {
       "id": "17",
       "categoryId": 6,
-      "thumbnail" : "./public/menu-images/technology.png",
+      "thumbnail" : "/menu-images/technology.png",
       "name":"technology",
       "value": "technology"
     }
