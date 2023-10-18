@@ -1476,7 +1476,7 @@
     {
       "id": "14",
       "categoryId": 6,
-      "thumbnail" : "/menu-images/art.png",
+      "image" : "/menu-images/art.png",
       "name": "art",
       "value": "art"
     },
