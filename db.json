@@ -1483,21 +1483,21 @@
     {
       "id": "15",
       "categoryId": 6,
-      "thumbnail" : "/menu-images/egineer.png",
+      "image" : "/menu-images/egineer.png",
       "name": "eginner",
       "value": "eginner"
     },
     {
       "id": "16",
       "categoryId": 6,
-      "thumbnail" : "/menu-images/finance.png",
+      "image" : "/menu-images/finance.png",
       "name":"finance",
       "value": "finance"
     },
     {
       "id": "17",
       "categoryId": 6,
-      "thumbnail" : "/menu-images/technology.png",
+      "image" : "/menu-images/technology.png",
       "name":"technology",
       "value": "technology"
     }
