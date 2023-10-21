@@ -1476,29 +1476,29 @@
     {
       "id": "14",
       "categoryId": 6,
-      "image" : "/menu-images/art.png",
+      "image": "/menu-images/art.png",
       "name": "art",
       "value": "art"
     },
     {
       "id": "15",
       "categoryId": 6,
-      "image" : "/menu-images/egineer.png",
+      "image": "/menu-images/egineer.png",
       "name": "eginner",
       "value": "eginner"
     },
     {
       "id": "16",
       "categoryId": 6,
-      "image" : "/menu-images/finance.png",
-      "name":"finance",
+      "image": "/menu-images/finance.png",
+      "name": "finance",
       "value": "finance"
     },
     {
       "id": "17",
       "categoryId": 6,
-      "image" : "/menu-images/technology.png",
-      "name":"technology",
+      "image": "/menu-images/technology.png",
+      "name": "technology",
       "value": "technology"
     }
   ],
@@ -2870,24 +2870,16 @@
   ],
   "users": [
     {
-      "id": 1,
       "email": "seyha@gmail.com",
-      "password": "123"
+      "password": "1234",
+      "image": "",
+      "id": 1
     },
     {
-      "email": "adfafd",
-      "password": "adfaff",
+      "email": "seyha@gmail.com",
+      "password": "1234",
+      "image": "",
       "id": 2
-    },
-    {
-      "email": "adfafd@gmail.com",
-      "password": "adfaff",
-      "id": 3
-    },
-    {
-      "email": "seyha@gmail.com",
-      "password": "hello",
-      "id": 4
     }
   ]
 }
